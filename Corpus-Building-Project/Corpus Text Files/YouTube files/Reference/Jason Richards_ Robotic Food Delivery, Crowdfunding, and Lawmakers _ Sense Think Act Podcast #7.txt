@@ -1,0 +1,1762 @@
+Audrow Nash: This is a
+conversation with Jason Richards. Jason is the CEO of
+Daxbot, which makes a charismatic robot for food
+delivery. We talk about deck spots delivery robot, their
+crowdfunding campaign, that spot revenue model, how Jason works
+with lawmakers to have robots on the sidewalks. And Jason teases
+their real time operating system. DaxOS. This is the Sense
+Think Act podcast. And thank you to our founding sponsor, Open
+Robotics. Now, here's my conversation with Jason
+Richards. Would you introduce yourself? Jason Richards: Sure, you bet.
+My name is Jason Richards. And I am the CEO of Daxbot. Audrow Nash: Would you tell me a
+bit about Daxbot? Jason Richards: Sure, yeah. So
+Daxbot is a robotics company that started out at a research
+and development lab back 2015, the founder, started a couple
+other companies, pretty successful guy, and decided that
+he wanted to create a research and development lab to, you
+know, what is the next wave of technology that we can get in
+front of, you know, and so, in 2015, one of the thoughts was,
+okay, well, we need robots to be able to do things. And there's
+plenty of plenty of robots in the, you know, in the workforce,
+you know, more in factories and things like that. But how do we
+bridge the gap into the next generation of robotics, where
+you have robots that are on the streets, similar to, you know,
+iRobot? Before the robots go bad kind of thing? It's like the
+movie being able to say, yeah, like, Audrow Nash: not the company
+backs the back. Yeah. Jason Richards: Not No, no, not
+that company. No, yeah, the movie, right. So you can tell a
+robot, Hey, pick up that, and go watch that window. And robots
+are smart enough to go and do it in human space. So that was the
+idea. And looking at what things could be most helpful out of the
+chute, is the delivery seemed like a natural first thing that
+a robot could do that would be pretty simple, you know, simple
+tasks that would be helpful to humans. So so that's where the
+idea came from. And so as of recently, we just got through
+restructuring companies now we're dexpot, Inc. and now we're
+able to go after and commercialize and, and have
+robots now being deployed to different states around the
+country where you before? Yeah, so before is Nova dynamics. So
+Nova dynamics was the research and development incubator. And
+they've got several projects, Dax as the robot was kind of the
+big one. And so with that platform, we knew that at some
+point, it has to move out of the r&d Lab and into its own entity
+that can be commercialized and become something Gotcha. So. So
+that was the next step. So as of last year, when you know, all
+the research and development last year, when COVID hit, it
+was a great opportunity to start getting robots out in the field,
+in our local hometown, because restaurants, people aren't
+coming to, you know, restaurants are closing their doors. But
+people aren't wanting to see people. So it seemed like a
+great space. And it was, you know, for that beta test, being
+able to take robots that we have go to the restaurants, pick up
+food, and then ticket to people's houses, you know, all
+without seeing a human was really highlighted the need for
+this type of technology. And it is well received. And it was a
+great, great beta test for us. So January of this year
+realizing okay, we've got a product that is ready to go
+awesome. So commercialized and Audrow Nash: here we go. Hell
+yeah. Tell me can you describe what Dex looks like? Jason Richards: Yeah, so Dax is
+a robot? It's about right. Yeah, yeah, if you're, if you're
+watching the video, you can see the one behind and it's about
+three foot tall, and white and black, kind of a reverse tuxedo
+type situation. And so you see, you see, Dax has got a fully
+articulated neck so that he's able to look all around and look
+up and down also has LED panel eyes. So the eyes are able to be
+expressive, you know, whether it is being able to be hearts or
+you know, I love you going to sleep blinking, so that it has
+some sort of emotional response from another human. So that is
+and then the, the cargo that's the thing that everybody asks,
+well, if it's the delivery robot, where's the cargo bay,
+and it's actually inside the stomach. So what you think of
+the stomach of this little creature, for people that
+haven't seen DAX before, I'd encourage you to go, you could
+check out DAX spot.com. You can see pictures of him and that
+kind of thing, but, but inside the drawer, which is where his
+stomach is, is where the payload goes. And then inside that is,
+you know, heating elements. We've got to design for a
+refrigerator so that we can do that's cool pharmaceutical
+delivery. Yeah, things that need it, which is pretty. That was a
+pretty astounding thing from the engineers perspective to be able
+to build a refrigerator Inside the robot, obviously, it takes
+up a lot of space with a compressor and, and heat
+exchange, especially in that type of area. But fascinating,
+and we did a lot of cool testing with that one. But so that is is
+Dax. Audrow Nash: And so, to me, Dax,
+I was gonna say refrigerator, like a little like college dorm
+freezer kind of thing. Right? It's kind of looks like one of
+those. And then it has this articulated kind of like
+hexagonal head that has the LED lights on it. And that head is
+on a neck that seems to have a few degrees of freedom, which
+I'm sure we'll talk more about that later. And we can't see it
+in the video now because of how the cameras positioned. But DAX
+is on tank treads, right? Yep, gotcha. Correct. And to me, Dax
+looks a lot like Wally without arms. And like, you say, like,
+the belly is where you store the payload. So whatever you're
+delivering, like in Wally Wally was designed to have that trash
+compactor there and its belly. So it seems kind of similar to
+me. Right. And the tank treads. Yeah, these kinds of things.
+Yeah, we, Jason Richards: we joke about
+the fact that Dax kind of looks like Wally and Eve had a baby.
+And that baby. Audrow Nash: That is right,
+because of the coloring. Yeah. And the sleek design color in
+the scheme. Yep. Yeah, yeah, exactly. Okay. Tell me a bit about the
+neck. Or the head, I guess. Yeah. Yeah. Jason Richards: So the getting
+the biggest piece that we wanted to solve was, you know, the
+human robot interaction piece. There other than delivery
+robots. There's a lot of people that will ask about that, you
+know, why? Essentially another delivery robot. And it's it's
+kind of funny because, you know, Dax was built people are
+familiar with starship, Dax and starship started almost the
+exact same time not familiar with starship as far as what a
+starship? Oh, yeah. So start. Yeah, so starship is a delivery
+robot on some college campuses. And if you look up delivery
+robots, if you just Google it, you'll find you know, kiwi, bot,
+and starship. And there's some others. And essentially the
+same, the design is exactly the same. It's about it looks
+essentially like a cooler with a couple of wheels on it. And so
+it has a payload and it's, it's useful in some applications. But
+with the the neck and the eyes, it was more of, you know, how do
+you create something that is going to be accepted in human
+pedestrian spaces. So so that's where the idea of, you know,
+articulating neck head, not putting sensors all over the
+place, and the founder, you know, dexpot really wanted to
+make sure that it wasn't creepy. You know, there's, there's
+plenty of really cool, like, mechanically amazing feats that
+people are coming up with, you know, as far as like mechanics
+of robots, you know, bipeds, those types of things. But if
+if, for example, you just saw, you know, two legs, two robotic
+legs running you down the street, you'd think that
+Armageddon was happening, I mean, that that would be a
+creepy thing. So wanting to make something that would be accepted
+in human space. So there's a lot of work that went into that, of
+how do we make a robot that people want to have around? So
+So delivery robots, most of them have that design of a cooler on
+wheels, and about two feet off the ground. And it becomes an
+annoyance for a lot of people, because it's it's in the way,
+similarly, people don't really, people don't even want bicycles
+on sidewalks, right? And it's a human on that bicycle, but it's
+annoying and pedestrian space. And so they make bicycles Audrow Nash: that cars have. And
+so I don't know if it's quite the same thing. I get that
+they're also annoying, but perhaps it's like, they go fast.
+And there's the potential to like, get hit by a bike
+bicyclist or something like this or them for to come out of
+nowhere. Yeah. Whereas I don't know that small tub robot would
+be quite the same thing. Or what do you think? Jason Richards: No. Yeah, the
+biggest piece had to do with with visibility is not being you
+know, not being able to see it. If it's it knee height, it's
+different than if it's it, you know, waist height, or, you
+know, shoulder catches. Audrow Nash: So it's like a
+mobile piece of furniture to trip over if it's short, and
+that could irritating. Okay. Jason Richards: Yeah. Yeah. And
+same way. I mean, you know, people don't like skateboarders
+on on sidewalk. Yeah. Again, moving fast, though. Remote
+Control often, yeah, some of it could be moving fast. And it's
+in a way it's becomes a tripping hazard, that kind of thing. And
+so the interesting thing with Dax is that with all the testing
+we've done on the HRIS side of it, is you know, especially kids
+love Dax, it's about the same height and so they can give it a
+hug, and it's looking them like almost either with very cute and
+with and with the neck itself. And the reason that we didn't
+want to creepy with sensors all over the place, people ask,
+well, it has 360 degree cameras in it, for example. You know,
+it's kind of an assumption a lot of engineers have, it's like,
+No, there's not 360 degree cameras in it. And people always
+want to know why it's like, well, you don't have 360 degree
+cameras and you know, you can kind of hear that their stuff
+behind you. And so you can, you know, you have some sense and
+awareness of what's around you. But you're not a spider, right?
+You don't have this spidey sense where you can you know that
+something's behind you. So in the same way, that's where the
+articulating that came from, you know, you could have something
+that that knows everything around it in a 360 degree view,
+or you have something that actually is more like, you know,
+more like a dog or a human, where you actually have to turn
+your neck around to see what is actually going on. But yeah, and
+so even those those pieces, it gives it a feeling that it is
+actually alive, instead of just being a machine, which why not?
+It actually is machine. Audrow Nash: So I mean, I'm
+thinking of this thing, where it's like airplanes don't flap
+their wings kind of thing. So I mean, we can draw some
+inspiration from biology. But where do we end Drawing
+inspiration? From biology? Absolutely. And I wonder, I
+would think it would be possible to use cleverly hidden sensors
+and to have the articulating neck, but have the articulating
+neck not necessarily tied to a vision system. Why Why limit it
+to having the vision system on the articulating neck instead of
+just having hidden sensors and this kind of thing? Jason Richards: Yeah, that's a
+good question. I don't know, the, the founder when he went
+through all of this, there was a lot of there was a lot of, you
+know, reasoning and things like that. And again, making it more
+a phrase that we use around here is anamorphic. You know, it's
+not anamorphic. It's not an ad. Cannon morphic. I don't know who
+doesn't like thrupp amorphic are more like a like a dog. Yeah.
+Yeah. Yeah, it seems more like it's a pet than it is a machine. Audrow Nash: So anamorphic. So
+it's like anthropomorphic animal. So when we assume but
+with cane, but for things like dogs, or whatever it might be,
+okay, so it's a creature and has some sort of intent when it
+moves around the world or whatever it might be. Right. Jason Richards: Yeah, exactly.
+And so one of the things, for example, is, I believe one of
+the stories I heard is that if Dax you know, robot goes into a
+situation and needs to go backwards. You know, we as we as
+humans, don't walk backwards, right? We don't just like walk
+backwards into into us, yes, we will turn and say, Oh, here's
+where we're going to go. And then, you know, if we need to
+have some field division in front of us, we'll be looking
+back and forth. So in the same way, wanting to train, train the
+robot, right train the neural net, so that it's not just doing
+things automatically. So it actually is showing intent, that
+oh, here's where I'm going. One of the things that we've heard,
+we actually, we live close to a university, Oregon State
+University. And one of in starship, one of those
+competitors is up there. And I haven't heard, I haven't talked
+to anybody around that really likes them on campus. And the
+reason for that is because it has to do with intent. So the
+device will drive up to a street corner, and then stop. And then
+all the other traffic, the cars are like, What are you doing?
+Yeah, what do I do? Yeah, is it gonna cross? Am I gonna cross
+there's no clarity? No, there's no law about right of way. Yeah,
+exactly. So there's sensors, no signaling, there's, there's no
+idea, you know, are you going to go am I going to go and so it's,
+you know, some of these devices have been hit one guy hit by a
+train that's been hit by a truck, one's one into a train.
+And so it's, you know, and it has has plenty of sensors
+onboard. You know, that's, you know, with that one
+specifically, it's, that's not the problem. But because people
+don't know what it's gonna do, they don't have any, any idea
+versus Dax will get to the street corner, and like a human,
+it will look at you, and it will watch you and follow your
+vehicle as it drives past. So you know, oh, this thing sits
+somewhere. And it's aware of what's going on. And it cannot
+its head, like, yes, you can go Go ahead, or, you know, shake
+its head so that people know, Oh, you want me to go? Versus
+you're gonna go right. And so there was a lot of there was a
+lot of thought and intentionality into the neck.
+Yeah, isn't just necessary for the neck sake, but it's more for
+communication, it looks one of the design, Audrow Nash: it looks to me. So
+thinking of like the founders perspective, and this kind of
+thing, perhaps it had something to do with making it so that so
+I mean, if you have sensors everywhere, and you can get a
+really good rendering of the world and this kind of thing.
+You can design behavior that uses that understanding of the
+world. But in this case, you're kind of constraining the
+behavior of the robot to be something that seems more
+natural. In like, it has to go and look behind it. There's
+something if it's going to go and back up or if it wants to,
+like look both ways for the street, you have to do that with
+the head. And it almost so it basically constrains the
+developers to like, I don't know program more lifelike behavior
+in it so that it operates in the world. I could see that being a
+clever way of doing that kind of thing. Jason Richards: And for for
+engineers, specifically, mechanical engineers, they would
+much prefer to have the device to be a cooler, right? Just
+right. Yeah, that's it, that's a much simpler thing than a fully
+articulating neck was dual pitch motors. Right? Audrow Nash: Yeah. Or just a
+sensor information would be probably more valuable.
+Absolutely. The who cares if it looks like a cooler, but I get
+your meaning that for like, sensors everywhere and full 3d
+map of the whole environment that it's in and this kind of
+thing? Jason Richards: Yeah. Yeah,
+absolutely. And we, you know, obviously, we got, you know,
+that technology to be able to do that, so that Dax is able to
+learn in 3d space, and you know, instead but, again, more similar
+to, you know, a human if I'm walking down the street, and
+I've been down that street before, I have an idea of what
+to expect, right? I know, there's a curb there. I know.
+There's a telephone pole. I see. Oh, there's a box there. I've
+never seen that box before. Okay. New information might not
+be there tomorrow. Right? So it's not something that that
+really comes in. But because everything is changing in such a
+rapid space, again, on a factory floor, Audrow Nash: you mean in the
+environment? Like walking around? Jason Richards: Right, yeah. And
+environment or walking? Right. If you're walking downtown, you
+know, in a metropolitan area has a lot of moving parts. It's
+changing all the time. Yeah, exactly. So so being able to
+have something that is more lifelike to be able to adapt in
+that environment. And it seems more natural in that
+environment. Actually, pretty interesting. Audrow Nash: So what sensors are
+on this robot on the Dax robot? Jason Richards: Yeah, so despair
+division is is one of the two it has Audrow Nash: a stereo that has
+two cameras beneath the kind of chin. Yes, something right below
+the display. Right. And Jason Richards: yeah, so yeah,
+where you see the display of the eyes is where that Audrow Nash: just been, you
+know, just beneath it. Yeah. Cuz I think I see that a little
+circles from the cameras that it has. So you have the two
+cameras. And from that, you can infer some 3d information about
+what's in front of the robot. Okay. Yeah. Anything else? I
+mean, I imagine there's encoders and things on the wheels, or the
+track. Oh, yeah. What, uh, and then all the motors have sensors
+and things. But what else for perception? Jason Richards: Is it just those
+cameras? Maybe microphones? Yeah. Yeah. So it's got, yeah,
+it's got stereo microphones. See, so you can hear what's
+going on. Again, kind of that sense. If you're, if you're a
+human, you can hear somebody coming up behind you, right? You
+don't have eyes in the back of your head, but you can hear that
+something is happening. And you're more aware of your
+environment that way. So, so yeah, those those. It's fun.
+When I when I talk to people about sensors, a lot of times
+they're thinking very unilaterally, and they're
+thinking about, like Lidar and Audrow Nash: things. Jason Richards: Yeah, exactly.
+Yeah. Like LiDAR, ultrasonic. I Audrow Nash: mean, I'm honestly
+surprised. You don't have like a plane or lighter or anything in
+there. But if you can do everything with vision, that's
+great. Jason Richards: Yeah, yeah,
+it's, it's pretty fascinating, obviously, yeah, the tracks have
+sensors, things like that, you know, when we're going into, you
+know, autonomy, things like that. Being able to have tracks
+to be able to know, even if you lose, you know, GPS signal and
+that kind of thing, you're able to know, within, you know,
+centimeter to where you're at in your thing. Audrow Nash: The tracks are very
+accurate for encoding it. And that's probably because they
+don't slip as much as wheels might. Jason Richards: Correct. Yep.
+Yeah, exactly. Audrow Nash: So Gotcha. Okay, so
+going back to the neck, you have these two cameras, and those are
+that's the majority of the bed that is the big perception
+sensor, the two cameras, and then you have stereo
+microphones, or whatever it's called, so that you can tell
+directionality of the sound, right? Yeah. Great. That's
+that's pretty much it for perception. Other than like,
+actually, I forget what it's called now, like dead reckoning
+your position for from the tracks and this kind of thing. Jason Richards: Yeah. But that's
+it. Yep. Yeah, Audrow Nash: that's it you've
+like, are there like capacitive sensors? So it can tell if it's
+being pat or hugged or anything like this? Or how do you detect
+like, a person is your buyer interact? I guess the cameras
+would do that. But do anything for a person touching it or
+anything? Jason Richards: No, no, not.
+We've, you know, talked about that a little bit. It's not, we
+don't know, how helpful that would be at this point. You
+know, everything, everything has to have, you know, some lead
+time and stuff like Audrow Nash: that. What do you
+mean meantime, Jason Richards: you know, just
+which I like to do is that just takes time. Gotcha. Yeah, yeah.
+Just development time. You know, and so what you know, weighing
+priorities, which is the most important thing totally, but
+yeah, with with you know, the vision for example, you know, if
+if somebody sneaks up behind me and touches me, yeah, I would
+know that and maybe the robot doesn't at this point might
+being able to hear this. Yeah, exactly. Somebody is coming up
+behind me. I can look back and be like, Oh, hey, what's going
+on? And then you know, we can have a conversation so no, no
+perceptions. As far as that's gotcha Audrow Nash: is just curious
+with like interacting with little kids and stuff with like
+the little kid with patted on the head and would know with
+being pat on the head. Oh, yeah. But Jason Richards: people people
+are hugging it all the time. Audrow Nash: Yeah. Okay, so the
+neck. Tell me about the neck. So it how many degrees of freedom
+does it have? What kind of things gonna do? Yeah. Jason Richards: So not wanting
+again, not wanting to be super creepy. So we've limited the
+range. Audrow Nash: So we can't go
+around like, a hole or something. Jason Richards: Yeah, we don't
+want this. It's Halloween. Yeah. Yeah, robot, right. Yeah,
+exactly. So it's a limited a limited range view, just just
+like a human would be. So it doesn't it will go back,
+probably a little farther than a human would by itself. Turn my
+neck, I can get about 90 degrees. But it doesn't go much
+further than that. So we have we also do a full 180 either. And
+so it's about it's about 150 degrees. So that's pretty harsh.
+And, you know, basically looking over your shoulder, right, you
+can look back and see what's going on. Yeah. And then And
+then, you know, down basically similar to a human right, you
+can sit down touch your head. And then the other problem is,
+you know, looking, looking up, you've got the back of the the
+head, Audrow Nash: right, the Yeah,
+because the cameras are just underneath the chin, in a sense.
+So it really does like to look up. Yeah, to clear the chin.
+Right. Yep. Yeah, exactly. So, Jason Richards: yeah. So that's
+it fully, fully articulating in all of the directions. Audrow Nash: That's two degrees
+of freedom. Can it turn sideways? I think it probably
+can. Right? Jason Richards: Yeah. Yeah.
+Being able to kind of, yeah, tilt the head, like, one of our
+Yeah, and that's one of the one of the most favorite ones that
+we have, you know, especially when we're interacting with
+kids, or they want to play with the robot. And so the robot
+kinda like a dog, like, you know, caulk its head and look at
+you funny. So that's one of the one of the things that we love
+doing with people. Yeah. Like, and then, and then a couple
+sounds that we put into the robot. So for them, they sound
+in some of the videos, which is interesting. I mean, Pixar did a
+wonderful job. So Audrow Nash: we'll leverage a
+lot of their things. Jason Richards: Yeah,
+absolutely. Yeah. But it's, it's pretty fun. One of the in its,
+you know, with the sounds, people ask, you know, if it can
+talk in, in some language, you know, English or whatever? And
+the answer is, well, yeah, tech, technologically, that's pretty
+simple to do. Yeah, but we've made a decision to not and
+again, the reason for that is when you don't expect a dog to
+talk back to you, you know, in in a language, but it will bark
+and you can you can understand with with nonverbal
+communication, what is going on. And so in the same way, as we,
+you know, work with different robots in urban spaces, and they
+would talk to you in English, it doesn't matter how nice the
+robot is trying to say something in English. It comes across
+route, you know, you don't expect a device to be telling
+you to get out of the way, right. It's like, well, that's,
+that's kind of, versus a robot that is just making sounds, you
+know, more RTD to ask, then, than anything else, right? So
+that you, you understand, like, Oh, this is asking me to move. I
+was actually just having lunch today. It's at our local Mexican
+restaurant, and we have a robot down there that's doing
+deliveries all the time. And the robot had had come inside. And
+then there was a cup in the way where it's supposed to park. And
+so it's looking down there looking up looking around, you
+know, its head like, hey, come over here and putting sounds and
+then just somebody that was at the restaurant looked at it was
+like, oh, it's trying to tell me something went over, take the
+cup, got it out of the way. And then the robot was able to say
+thank you turn around and back into its spot. So one of your
+robots you're saying? Yeah, yeah, one of one of the ones
+like this. Yeah. So So with Yeah, so it a nonverbal
+communication, and that human robot interaction pieces, again,
+a lot of stuff that we've we've studied. So it's where we put a
+lot of time and effort into Audrow Nash: Yeah, it seems like
+a thing of setting expectations. Because I think if something
+talks, we expect that it can really talk. Right? And then
+it's frustrating when it immediately doesn't recognize
+you, like you could say any arbitrary complex thing, and it
+would have no idea unless there's someone behind the
+scenes like this. Jason Richards: Right? Yeah,
+like a web chat. Yeah. You know, mean, typing, and you're like,
+No, this is definitely this isn't a human Audrow Nash: talking. Yeah, the
+robot would be similar to that. Otherwise, yeah, I've seen that
+quite a bit from like different human robot interaction research
+where they want to set the expectation low. So that they
+can not over promise. Jason Richards: Right. And
+obviously, you know, other companies have done a good job
+of overcoming that barrier by having an actual human you know,
+via like a computer screen on the other side. And then you're
+talking face to face with a human right? The robot just
+happens to be, you know, the carrier. It's the media of the
+iPad, for sure. Yeah, exactly. Audrow Nash: So do you. So how
+much of the robots control? Is a human in the loop? Like tele
+operating the robot? And how much is autonomous? At this
+point? Jason Richards: Yeah, at this
+point, the, the autonomous piece is almost strictly for
+navigation. So now that part's out of the way, one of the
+things obviously, the the software guys, they're really
+excited about the HDRI components automatically know
+facial recognition, somebody happy, sad, how do I some
+emotion or act? Yeah, yeah, putting them putting emotion.
+But you know, while it's on the job, if you will, you know,
+especially with disparity vision, and making sure that,
+you know, collision detection and avoidance and things like
+that is all working, it's going down a path to making sure it's
+not going to run into something, but at the same time, it comes
+into an obstacle, you know, it hits an obstacle, not hits an
+obstacle, it sees an obstacle stops, and then can look around.
+And it's kind of like, you know, looks like it's looking at
+flowers or trees are cars that are passing by. So that, so that
+is more natural than, you know, a robot that just drives you
+know, gets to a point and then just kind of sits there for
+Yeah, so. So all of the the human interaction pieces have
+been with tele operating, you know, having somebody on the
+other end, being able to emote, and it's been really fun to,
+again, experiment in a pretty tight loop. So you can see what
+do people react to? And what do they want? Like, what do they
+want to see from this robot on a emotional or interaction basis?
+And then once they have that, you know, now that we've had
+that we have some really good data now, just programming
+right? This program, like, okay, when this than this, yeah. And
+then the robot can know what to do in certain situations. Audrow Nash: So when so the
+robot will autonomously go from point A to point B. It does it
+uses GPS or how to do that. Jason Richards: Yeah, GPS and,
+and Dead Reckoning and dead reckoning. So, right? Yeah. So
+within the tracks itself, it, it knows where it is less slippage,
+like you'd say, you know, better better than Audrow Nash: does it use. Is it
+doing? It's not generating? I think, in us talking a little
+bit before the actual recording started. It doesn't do mapping,
+right, you have to go map an area before the robot goes into
+that area. Is it correct? Jason Richards: Yeah, for the
+autonomous piece. Yeah. So when we go into a new area, yeah, we
+go into a new area, we have, you know, an operator that's doing
+that piece, you know, going through finding out where the
+the obstacles are stuff like that. And so here's the road
+crossings. Here's the dangerous battle. Yeah, don't go here. You
+know, kind of like kinda like the Waze app, you know. So once
+we have all that, all that set, then we can say, Yeah, this is a
+this is a free and clear sidewalk, you can go, you know,
+full speed. This is a danger zone slowdown. This is a road
+crossing. We don't, we aren't, you know, there's a lot more
+programming, we aren't letting the robot cross streets fine. So
+yeah, Audrow Nash: that seems that
+seems terrifying. For your robot. Yeah. Yes. Yeah. So what
+is it when someone is going to create one of these maps for the
+robot? What does it involve? Do they just like a handheld stereo
+camera to do it like? Or do you just bring a lidar through it?
+And it just maps everything? Or what like, how do you how do you
+create this initial map? Jason Richards: Question, we
+actually, we actually just do it with a robot to drive the robot
+relocating. Mm hmm. Which does Audrow Nash: generate a big 3d
+mouse that way, and then you annotate it. Jason Richards: Know where it's
+a little more complex than that. I won't, I won't try to butcher
+it. Because I'm not one of the engineers on the project. But
+yeah, but being able to go through. And then with that,
+being able to process all the data that we need, so we can
+see, here's, here's what's going on. And it also does a lot of
+good stuff. When we're doing bigger deployments. One of the
+things that people really want from our customer base is Dax is
+really cool. It's a really cool thing, right? It just happens to
+be cute, and it delivers food. So you know, what it does is
+kind of an accessory. So when we go to a new area, it brings a
+lot of goodwill to the, you know, to the people that are
+getting in as well. You know, we're driving a robot on every
+path that we can think of, you know, for delivery area, and
+people are stopping us all the time asking questions, this
+robots like oh, we're partnering with this person and and so and
+then also gives us some good information as well for the
+other connectivity, you know, LTE and stuff like that. So when
+operators have to jump in, we got to make sure that we have
+what carrier do we need to use for the different agencies? What
+bands right Yeah, cuz everywhere. Everyone's A bit
+different. And so obviously, what will work in here in Oregon
+is not necessarily the best carrier down in Coronado,
+California, which is may not be the best carrier in Atlanta,
+Georgia. Audrow Nash: Yeah. Gotcha. Okay,
+yeah. So you have a map of the environment that you get from
+driving the robot through it. And then you have the robot
+navigate autonomously, from point A to point B using kind of
+like, somewhat labeled map in some way where someone says,
+this is a crosswalk, this is a sidewalk, these kinds of things,
+then you get to your destination, and the robot is
+taken over by someone who's controlling it with a
+teleoperation setup to actually do the delivery to it. Correct? Jason Richards: Correct. Yeah.
+So that at this point, knowing that, you know, that's the
+interaction. It's not just the delivery service, right. It's,
+it's the experience of having a robot that is being nice to you.
+Yeah, so that's exactly that's where a human takes over and is
+able to be interactive. Yeah. Audrow Nash: And so for that
+part, what does it look like, for from the humans perspective?
+Are they sitting on some sort of, like, video call kind of
+thing that sees what the robot sees? And they have a bunch of
+buttons in front of them? Where they can say nod head like this,
+make this noise? Like this kind of thing for picking the
+behaviors? Or how does it work? Jason Richards: Yeah, a little
+more simple than that. A couple joysticks, you know, that have,
+you know, a lot of lot of pre programs into the joysticks, you
+know, kind of your over your overview map, you can kind of
+see where the robots were at, you know, you can monitor
+several robots at a time. You know, making sure they're
+staying on path. And then if one needs help, you know, the
+operator is able to go look into it and see what they need to do
+navigate around or end of destination, right. Being able
+to, to contact the person. Let them know that they're their
+personal copy that's funny for the delivery, like Uber Eats or
+DoorDash or something. Yeah, when you have to call them and
+be like, where Audrow Nash: are you at? Yeah.
+Yep. That's funny. So, okay. Let's see. So then, so they're
+using a simple interface to control the robot while they're
+doing that interaction. You were saying that eventually, maybe
+you could automate this kind of thing? Or you or at least part
+of the interaction now that you're generating data? How and
+then do you have the customer like rate how enjoyable it was?
+Or different metrics of it. So you can see how the interaction
+was and what parts of it they liked and disliked and whatever? Jason Richards: Yeah, good
+question. So we, so there's not like a Dax app? For example,
+people aren't ordering food through Audrow Nash: us to get not Yeah,
+actually. Jason Richards: Yeah. Well,
+it's, it's, it's an interesting paradigm. We work with the
+restaurant and so we'd rather do integration with people so that
+it's their brand. We just happen to be the Korea robot that's
+delivered. Yep. Yeah, kinda like, you know, I lived in
+Seattle and Boeing, obviously the a great company. But, you
+know, a Boeing airplane could have Alaska Airlines on the
+side, or it could have delta or United or whomever, right. So.
+So when I go to get on my plane, I'm not saying hey, I'm on a but
+am I on a Boeing? I'm no, I'm, I'm with delta this time, or
+Alaska or whomever? Right? So yeah, it's kind of the same, you
+know, kind of feel. But, but with that, yeah, so especially
+here in our local town, it's a small town. And so being able
+to, you know, we've got their phone number, and then we can
+ask, you know, direct conversations, and see what
+people like and don't like we we did a test at a retirement
+community as well. I mean, the assumptions that we had were
+kids, we know kids like robots, which I think back to when I was
+a little kid, and I've got a I've got a eight year old and a
+two year old, and to them growing up. Oh, yeah. Robots
+around the street. Like it's just kind of a normal thing,
+right? Yeah. But so I'd imagine kids probably are good with it.
+And they do they love Dax, people, our age are, are a lot
+more amenable to Dax as well, because it's cool technology. So
+we didn't know how it was going to be received with people in
+their 90s and, shockingly, Dax were all for overseas. Yeah. Oh,
+yeah. Again, because it's not it's not a machine to them. It's
+it's an entity. Right? So when you watch Star Wars, for
+example, are 2d to into machine. He is but you don't perceive
+him? Yeah, you see, you perceive him as an as an entity, you
+know, somebody that you are having conversation with, not
+just, you know, directing to do a thing so so in the same way
+when people see Dax, you know, and it's funny, I do the same
+thing. I know what's behind you know, I know you know, all the
+inner workings of the robot, but I'll see him on the street while
+I'm, you know, going to get a taco. And I'm like, Hey, Dad,
+I'll say hi. And it's so funny. And obviously I know you know,
+it, doesn't it You know, I'm saying but it's, it's definitely
+an experience until somebody experiences or sees the
+difference between, you know, just you know, a cart that can
+deliver something to you versus having an interaction with a
+beam. That is a machine. It's starkly different. Audrow Nash: Now. So you guys
+are deploying in your, in your town. So you're in Portland,
+right? I haven't been to No, Jason Richards: not poor. Oh,
+where are you? Yeah, not Portland. We're. So Oregon State
+University Corvallis, which is about an hour and a half south.
+And we actually are in a small suburb of that in a little town
+called fellowmen. But yeah, so not Portland. Not Not a huge
+Metro. Audrow Nash: But yeah, small
+town. How many people to the town? Oh, about 5000. Wow. So Jason Richards: small. It's
+crazy. Small town. Yeah. Small town. I moved down here from
+Seattle. It's a big change. It was it was good. Yeah. Yeah. I
+grew up in it. I grew up in Montana personally. So it wasn't
+changed to go back. Yeah. Back to a small town. Right. Yeah,
+we've got robots now that are in Coronado, doing food delivery.
+Down there. That's been fun. We got some robots that are
+shipping out to Georgia. Cool. We next week Expo Hell yeah. So
+we're getting packaged up and shipped to Georgia. And then
+different deployments. I think Long Beach. We've got some
+robots in Long Beach right now. Yeah. Deliver stuff. And then.
+Yeah, and more people are contacting us all the time. Oh,
+yeah. Yeah, Audrow Nash: how many? How many
+robots are deployed? Right now? Would you estimate? Jason Richards: What really, I
+could probably do the math in my head. It's not a lot. So we've
+got the deployment in Coronado, Long Beach, Audrow Nash: we definitely use
+it on the order. Georgia, or is it on the order of like, Jason Richards: yeah, that's
+about it's about, we've got, you know, got more robots in that
+that are coming off the production line, but we've got
+actually in the field working. We've got about Audrow Nash: about 10 Yeah, 910.
+Gotcha. They're doing stuff. Okay. Interesting. How large are
+you guys as a company? Like how many people are involved? Jason Richards: Yeah, so we've
+got there's a 18 of us, Hey, we've got the manufacturing. So
+we got the manufacturing side. That is, you know, getting
+robots, you know, off the line, then obviously, the operation
+side and servicing, you know, like, getting data on that, you
+know, how long do you have to run a robot before the tread
+needs to get replaced? Yeah. How many miles on their tires, you Audrow Nash: know, imagine where
+you were out fairly fast, too, which is interesting, Jason Richards: surprisingly,
+not really, actually have lasted a long time, we finally we
+finally got one that we're like, Hey, this looks like it's
+certain to how many were out. We should swap this out. I don't
+actually this actually just happened. I think it was either
+earlier this week or late last week. And so I asked her
+Operations Manager, like figure out how many hours we put on
+this. Yeah, we can put that in our service manual. But yeah.
+And then obviously, they the engineering team, you know,
+mechanical and electrical and software and firmware, and yeah,
+so Yeah. Audrow Nash: Gotcha. Cool. And
+how are you guys funded? For this kind of thing? Have you
+been accepting investment? Or like, what kind of where are you
+at in terms of funding? Jason Richards: It's good
+question. So um, so in 2002, brothers, I'll tell you the
+story of the founder. So two brothers, they started an
+internet an ISP. dead broke. I mean, they, they were volunteer
+firefighters lived at the fire station and paid themselves $50
+A week, a month kind of thing, you know, crazy. barely getting
+by got it got it up and running. And then in 2011, or so kind of
+limping along there. Since they were firefighters. One of the
+brothers had this idea because they went to a fire call, they
+got to the fire station. And the fire trucks were coming back
+from the call, by the time they got there. He's like, this is
+stupid. Like, we have the iPhone. I'm gonna build, I'm
+gonna build an app. And so he built this app called active
+911. And last I heard it's about 40% of firefighters in North
+America use this app called active. Wow. So it's done very,
+very well. And by his that Joseph and Joseph goal was
+always to have this r&d lab that I talked about. So in 2015, they
+started Novo dynamics. And then Dax was kind of the first big
+project that they said, Okay, five years from now, I think
+robots doing delivery is going to be a thing. So let's start
+working towards that end, and more importantly, working
+towards the future that people want to see, you know, when, you
+know, again, when people are thinking the future of electric
+cars, electric cars have been around, you know, since the 80s.
+Yeah, you know, long people have tried to do electric cars. But
+it wasn't until Tesla before now, it's something that people
+want, right? People are like, Oh, that's the vision of the
+future that we want to see not these weird box things that are
+glorified golf carts. Yeah, right. So in the same way, you
+know, with the robot is solving that, you know, what kind of
+thing do we want in pedestrian spaces? That isn't going to be
+creepy, that people are going to want to attack themselves to
+they can do helpful things for people. So that was that was the
+idea. So the r&d portion is all been self funded, you know,
+because these other two companies that have done well,
+it's been self funded up until about a month ago. And so about
+a month ago, I was actually, you know, January when we said, we
+need to, we need to commercialize this thing, what
+do we need to do we need to get investment. Because, you know,
+building you know, 20 robots is one thing, building a fleet of
+them. Hundreds is a totally different ballgame. So. So it's
+actually just about a month ago that we opened up a crowd,
+crowdfunding campaign through start engine, which is the
+intermediary, so so it's kicked off. And this first time I've,
+you know, I've been involved in lots of companies started a
+couple myself, but I've never gone after investors. So it's a
+whole new experience for me. You mean crowdfunding specifically?
+Or? Or even venture capital? You know, filing with the SEC? Yeah.
+Never. I've always been bootstrapped. Yep. Right. We've
+always bootstrapped company. So this is the first time going
+after investors. And it's really interesting, because the the
+majority of people that don't know us, you know, they don't
+know who we are. And they don't understand that, that the two
+brothers like, people that know the two brothers, a lot of
+people that know them have invested quite a bit because
+they paid another venture. Yeah. Yeah. And yeah, and they, they
+seen the robot, obviously, our hometown, couldn't ask for a
+better reception, you know, from the investing standpoint,
+because they're like, No, this is our robot. This is our
+hometown, and, you know, friendly neighborhood robot that
+we're investing in. But people that don't know us, that have
+invested. You know, we're saying over $1,000, you know, $1,000 or
+more, yeah, I've been reaching out to those people. And
+predominantly, they're engineers, you know, it's people
+that, that see what we're doing. And they say, Oh, this is cool.
+Like, this is a cool version or vision of the future that you
+guys have. And we want to be a part of that. So yeah, so that's
+where learning, you know, how do we how do we get that message
+out to more people? So not just engineers, but everyone that's
+it seems to be? It seems to be interesting that that's the
+community that is really liking what we're doing. Audrow Nash: So yeah, well,
+they're interested. I don't know, as an engineer, I'm
+interested in robots. And I imagine it's true for a lot of
+other engineers. Jason Richards: It's true
+anyway. And it's not just you know, robotics into you know,
+every discipline you can imagine civil engineers are like, wow,
+this is. So it's kind of cool. Audrow Nash: So, how was the
+crowdfunding? What are your thoughts on crowdfunding after?
+So is it still alive? Or yeah, it's still alive. So at the time
+of this interview, it is how long will it stay live until?
+Because it may be I said, it'll be like three weeks before this
+is published. So Jason Richards: yeah, so the
+the, the raise is going through either you hit the the first
+goal that, you know, we can hit with what we filed with the SEC.
+So we're looking for a million dollars by the end of the year
+is kind of the the goal and the target that we have, we're about
+a third of the way there, you know, after been going for about
+a month, so it will either will either hit that that mark, and
+the fund will shut off, or I believe it goes until I think
+it's a six month campaign. So it would go until until April of
+next year. Audrow Nash: Oh, hell yeah.
+Okay, good. So this episode will air while it is still going if
+it goes to the six month time. Awesome. Yeah. What have you
+thought of crowdfunding? It's an interesting model. Does each
+person get some equity? Or they're just supporting you? Or
+they like get a tax robot? Or how does it work? Jason Richards: Yeah, so there,
+yeah, there are different ways of crowdfunding? Yes. You know,
+we're a nonprofit or something, it's not equity, what we're
+doing is actually is actually equity. So you're actually
+getting stuck in the company, which is, is kind of cool. So
+I've heard horror stories of that, Audrow Nash: where you have
+funding crowdfunding, where you give them equity, because like,
+you'll have to go and get permission from everyone for all
+the decisions and eventually, just like veure bureaucracy
+weighs down the company no longer gets anywhere. That I
+guess you have clear about their terms kind of thing, if you
+guess. Jason Richards: Yeah, and
+everybody so yeah, start engine is the platform that we're
+using. And part of it is that yes, you do get common, you
+know, common stock, you know, which is you have shares in the
+company. But you also are essentially signing over your
+vote to the CEO, which is me. So, so when anybody says yes,
+you know, I'm going to put $1,000 into DAX and get, you
+know, however many shares they're also saying that that,
+okay, I know that you run minority shareholder, yep.
+Right. So I am your representative. So I am the vote
+for the shareholder. So obviously, if people want to
+talk to me, obviously and let their voice be heard, you know,
+kind of like a representative government, you know, cool and
+Okay, I like that a good way better talk to me. Yeah. And
+then same thing where it's exactly cuz otherwise, you know,
+your shareholders meetings. Everybody's there by proxy, and
+I'm the proxy and I'm the boat so, so it doesn't really bog us
+down administrate If that makes sense, yes, the cap table is, is
+big. And usually people that don't understand technology very
+well and the liberalization, Audrow Nash: which is where the
+monopolization goes, right? Like or who owns what? That's
+typically correct, Jason Richards: right, right.
+Yeah. Who owns what? Yeah. So if you buy, you know, 50 shares in
+index bought, your name goes on the list of like, okay, you are
+an investor. So Oh, yeah. Audrow Nash: Okay. That's crazy.
+Yeah, that's, I will at least we have like, you can automate
+everything. So you don't really have to do too much. Probably. Jason Richards: No, that's,
+that's all gonna say, yeah, there's not and and people that
+don't know technology very well, they have in their mind that
+you're looking, you know, that many stamps, you know,
+envelopes, as you're sending out like, requests, you know, to
+shareholders and things like that, like, No, you put it in a
+CSV file, and boom, everybody gets a mailer. Audrow Nash: So how, how much?
+How much? So you said, your goal is a million, you're a third of
+the way there, it's been a month, you have five more months
+or so? How many, so in that third of a million dollars,
+which you've collected? How many people are involved in that? Jason Richards: A little A
+little over 200. So, Audrow Nash: okay, so it's
+mostly like at least investing, at least investing like 1500 per
+person, on average kind of thing. Jason Richards: That's, that's
+the average. And we had to, we had to have a minimum that was
+above 100. And so what we wanted to do, and back back to the
+large cap table, right, the number of people that would be
+on this, this list of investors, people were saying, you know,
+don't make it too big, but at the same time, we have a lot of
+fans. We call it the DAX fam. You know, and we wanted, we
+wanted people to be a part. And so we said, Okay, we need to
+have a minimum, that minimum entries 170 bucks, so that
+people can be, you know, an owner of DAX but why Audrow Nash: is that arbitrary? Jason Richards: Weaver? Audrow Nash: Why $170? Jason Richards: Yeah, so we I
+like round numbers personally. And so our, it's 169 50. And so
+our with our current valuation and what the stock price is, and
+ends up being 50 shares, we have to we had to have a number over
+$100. Okay, and so we said, Okay, well, then 50 shares, so
+50 shares is 169 5339 shares. Oh, I see. Okay, so that's how
+it works out simple. Yeah. So I just made it that was it was
+arbitrary, but it was a, okay, I have 50 shares of dexpot. Right,
+that became kind of the lowest investment that you could do,
+and then up to to answer your question. So up to $50,000 is,
+is, you know, 50,000. and above, if somebody wants to invest at
+that level, we said, yeah, we'll fly back to your location, and
+we'll have them deliver something to you. Cool. So we
+have nobody's, nobody's taking us up on the 50,000 yet, but
+we've had had a few investments that invested down, you know,
+several $1,000. And the average is about 1500. But I think
+there's a lot of investors, the majority of the investors, if
+you will, are about $1,000, guys, so it's been a good
+reception. And because it's I don't know if I know this
+correctly, but this is my impression, and you can correct
+me, because it's relatively small amounts of money that
+people are investing. They don't have to meet the bar, the people
+investing don't have to meet the bar for Audrow Nash: being like an angel
+investor or something, which I think is like a million in
+assets or assets or something, and over some amount per year.
+So anyone can invest in this kind of thing. Jason Richards: Yep, exactly.
+And, and that was a law. And I might get it wrong. But it was,
+you know, fairly recently, I think, when 10 years or maybe 15
+years when the law came out. Before that. You're right.
+Everything was an accredited investor, which, like you said,
+massive amounts of either high income, high disposable income
+or huge net worth that is in your house. Yeah. And so it's
+very, very rare air to be an angel. Yeah, exactly. And so, so
+with that, they said, okay, there are some rules around it.
+So for example, if you go to start engine, and you say I want
+to be an investor, they will ask you some questions about your
+income and things like to confirm because there are
+limits. Okay. Yeah. And to make sure that, that if you don't
+have a lot of disposable income, you're not doing it going to
+hurt yourself. Right. That's good. Exactly. So yeah, and
+there are certain limits and things again, depending on
+income and assets and things like that, so it doesn't hurt
+anybody, but at the same time people can invest in in cool
+startups like this totally. And it's kind of Audrow Nash: early to, yeah,
+yeah, Jason Richards: absolutely. So
+they can say oh, you know, people a lot of people like I
+don't want to put my people that are okay putting money into
+crypto are usually okay putting money into, into into startups,
+right? They you know, it's not people they just want bonds,
+right? Yeah, I don't want bonds and put it in that row massively
+and I want to be something cool. So exactly. I get it more risk.
+Yeah. Yeah. Yeah. So and again, it's not you know, for a lot of
+people you know, $1,000 is not like a it's Yeah, doesn't
+exactly doesn't break the bank but if it if it goes big like
+that, pool. And again, it's again more a part of a, you
+know, I've met people that invested in Microsoft when it
+was nothing, you know, kind of thing. And it's like, yeah, wow,
+you're probably enjoying that. Audrow Nash: So, so one thing
+that I would be curious about if I was to invest in this is about
+future rounds of funding, because it might be possible
+that they get diluted through additional funding. How does
+that look for like, yeah, just talk about that, because I don't
+know too much about it. Jason Richards: Absolutely.
+Yeah. I didn't either, you know, till a few months ago, when I
+really had to learn a lot. So the way that it works is that
+the goal when you go to each investment round is to the value
+of the company wants to go up, right? That's, that's the goal.
+So if the value of the company goes up, so does the amount of
+dollars you know, easy math, if you invested $5, and then the
+company, the value of the company doubles, then your $5
+turns into $10. Right? Just, you know, hypothetically, yeah.
+Okay, value goes up. But then right, then you say, Okay, we're
+gonna go after other investors. So we're gonna add more shares
+to this. Yeah, well, exactly. It's just gonna dilute your
+shares, right. So your your share was $5. Now, it's $10.
+Because we doubled it, but now we've put more shares in the
+mix. So now my shares are worth eight. But it allows it allows
+more fuel for more growth, if that makes sense. Yeah. And the
+hope is that it grows again. So then that eight turns into 16.
+And the company doubled again, right? So that's, that's
+essentially how that works. And that's a very simple, very, very
+soon. Yeah, but Audrow Nash: the dynamic, is
+there. Yeah. And you just hope that it's not diluted to such an
+extent that you make quite a bit at the end. If a company does
+have some sort of liquidation event? Jason Richards: Yep. Yep. And
+that's the goal. And I've, you know, talking to venture
+capitalists and angels, and just kind of getting a sense for what
+what are you looking for, you know, what is what does an angel
+investor or a venture capitalist looking for? Audrow Nash: What do they think? Jason Richards: Most? Yeah. Most
+of Audrow Nash: them Jason Richards: have no
+experience with at least the ones that I know. I've talked to
+most of them have no experience with it, because they haven't
+had to write they they're that rare air of angel investors
+accredited investors. So are they don't need to have an
+investment firm or something. Exactly. This kind of Yep.
+throwing around the money. A lot of people. Yeah. And since
+again, because it's a fairly new concept in the scope of, you
+know, the history of the world, it's a fairly new thing that you
+can get into these crowdfunding rounds. They don't have a whole
+lot of experience with it, but a lot of them, it seems that the
+tides are turning a little bit. I'll give an example. So there's
+a, an angel group are called the Oregon rain. And it's more for
+small, small, small startups. You know, like, you know, I need
+$30,000 to get this, this idea off the ground. Yeah. And so
+because they're angels, and trying to figure out how they're
+going to do it, they actually partnered with another
+intermediary, I can't remember, but basically who it was, but
+essentially, this other intermediary, like start engine
+was going to give them a white label version of what does it
+mean, programmable? That version? I don't know. Yeah. So
+yeah, so a white label version would be. So for example, if I
+have a software, let's call it Microsoft Office or Microsoft
+Word, right? So a total a white liberal version amendment. Audrow Nash: Yeah. Jason Richards: Okay, so I can't
+just I can't just say, hey, it's Microsoft Word. Yeah. But if I
+had a white label version, if you came to me and said, I'm
+going to give you you know, $300 billion. So I have a white
+labeled version. It's not Microsoft Word anymore. It's now
+dexpot word, right? And so I the label, or you buy, essentially,
+okay, you buy it, you buy the rights of the software, but they
+put your name on it. And so that's so a white middle version
+of startengine would be, you know, Oregon rain.com/investors.
+But the actual software was not written by Oh, yes. Investors,
+okay, by another company. Yeah, that makes sense. So, so, so I,
+it looks like it's becoming more. There's more awareness
+around crowd fund so that in these angel groups seems like, Audrow Nash: okay, that's what
+you were. So I was a bit lost for a sec. You were saying
+basically, that's an example of crowdfunding going into
+something that is a bit larger. Yes. With investors or
+something? Jason Richards: Right. Yeah. The
+angels. They are they know of it, but they haven't
+participated. But it seems to be just the research that I've been
+doing, it seems to be that they're more open and receptive
+to it. Interesting, more, because you have companies that
+have gone through crowdfunding rounds, and they've they've done
+they've done it successfully, meaning that they, they got the
+money, and then they executed on the goal correctly. They started
+getting revenues. And now they have revenue. So now they could
+go into like an angel investment group or venture capitalists and
+say, here's our revenues. And here's the funding that we got
+before. Now, would you you know, invest in this and there Now
+seeing because they're seeing this happening more often,
+they're more privy to the fact that, oh, we might want to look
+into investing in crowdfunding options ourselves. Audrow Nash: Why would so why
+would a company go into crowdfunding as opposed to
+seeking investment from, I don't know, like a, like a pre seed or
+some sort of company or some sort of angel investor or
+something like this, because I understand that one of the
+benefits of having investors come together for your company
+is that they can help you make while they can connect you to
+the right people, or they can mentor you. So you avoid
+potholes. Why would you choose crowdfunding over a specific
+like one larger investor? Kind of thing? Jason Richards: Yeah. Yeah, to
+two main reasons. So January, then back January of this year,
+when we were looking at going after investment, reached out to
+some venture capitalists and friends of friends that we have,
+but no people. And essentially all of them said, Okay, well,
+what are your revenues? Zero. Okay, so if your revenues are
+zero, that's a pretty big gamble. Right? You're for them.
+That's the perception market event Audrow Nash: or these kinds of
+things. So neurons, Jason Richards: okay. Yeah.
+Yeah. So I did at this point, they would look at that and say,
+Oh, it looks like it's still like a research phase. It's
+like, Yeah, but we want to go from a research phase into a
+commercialized phase. So in order to make that jump, it's
+going to require money. And so I was talking to one, one venture
+capitalist who he been on the other side of the table to write
+he had he had startups gone after venture capital and had
+some successful exits. And, and he said, he said, what you're
+going after right now is he called it dumb money, for that
+reason, right? Because when you go after venture capitalists,
+you're not only you're getting their Rolodex, right, the old
+Rolodex is where people had contacts and things like that.
+So you're going after their Rolodex as much as you are on
+the cash. And so that's kind of the next step that I see. Audrow Nash: And also just
+advising to not just rollback, but like they can really no,
+because they could have could have seen people go through
+similar stages. And they can be like, Ah, this Yep, like, at
+this point, you should be working on this. And at this
+point, you do this, and this is how we get to the next stage,
+our Series A or whatever it might be. Jason Richards: Yep. So yeah. So
+with with the, so as we talked to different people,
+essentially, it was, you know, that was kind of the feedback we
+got from several, the, you know, get some revenue didn't come
+back to us kind of thing. So we looked at that and said, Okay,
+well, then crowdfunding seems like, a good option for a few
+reasons. One was because we everywhere DAX goes a celebrity.
+You know, everybody, kind of everybody, there's, about half
+of the people will kind of walk by like, oh, yeah, I see robots
+trying to talk to me every day, you know, like, and I might say,
+I'm trying to Audrow Nash: go, where is this?
+I don't know. I feel like I should be in the area with all
+the robots. And you were mentioning that it's not legal
+for robots to drive on the streets here. But I'm in I'm
+supposed to be in the tech area. And I so seldom see robots
+anywhere doing anything. Work From Home stuff, but yes. Okay. Jason Richards: Right. And then
+and then the other half of people are, you know, getting
+out of their cart. We haven't caused any, you know, auto
+accidents from people like rubbernecking, but it is fun
+being you know, walking. It's fun walking behind dact. Yep.
+And seeing people on the road because people will look and
+even if they're having a bad day, it's funny watching the
+people in the car because they will, they will turn their head
+look at the robot. And you know, the look at DAX and then
+everybody smiles. Where has this look of like astonishment? Yeah,
+what is that? Did I just see that? But everybody smiles like,
+well, that is that's cool. You know, like, huh, I just saw
+something special today. So anywhere, the DAX goes. He's a
+celebrity. Like I talked about, you know, the hometown film, if
+we wanted to be able to say, hey, you can invest to for
+crowdfunding. So yeah, like, give you that opportunity. The
+other piece of crowdfunding is it's a lot of, it's a lot of
+marketing. Right? Film is, is a, it's a great little small town.
+But it's a small town. Down here for me. Yeah, versus Seattle.
+And you got 4 million, you know, not as big as you know, LA where
+you're coming from but, but need more eyeballs on DAX, right,
+more the more eyeballs, the C DAX, the more people that have
+invested interest literally, right? If somebody is in Texas,
+and they put $1,000 into DAX, they're probably also more privy
+to be like, hey, I want DAX down here, too, you know, or what
+connections do you have any larger sense? That makes sense?
+So those were the two big reasons that we said yeah, let's
+let's go after crowdfunding and make it work. Audrow Nash: So what do you
+think? So I coming from, so I was in grad school doing human
+robot interaction for a little bit. Oh, yeah. And one of the
+things that was very concerning for the community was kind of
+the this novelty effect. So like someone can be, like really
+excited about the robot, and they'll like, do all the things
+the robot wants and behave really well around it. But then
+over time, so as weeks go by, and months go by any, like,
+maybe the robot becomes less influential on those people,
+because they now are like, I know what it does. I'm kind of
+sick of it. This kind of thing. Yeah. Any any thoughts on this?
+Because the robot is currently a celebrity. But I wonder, could
+it be a novelty effect? Or is it? How do you think of these
+things? Jason Richards: Yeah. So if if
+all the DAX did was be novel? I would agree with that. Right. So
+differing things and so right. So do you have to have a useful
+function as well? Right. So if he's, if it is, same with you
+know, like, I would say that, that if it's doing useful things
+for people, whether it's, you know, delivering you food or,
+you know, patrolling grounds, like a security robot or
+something like that, right, if it's doing something useful,
+it's not only novel and cool. You wouldn't get sick, because
+it's actually helping. It's justifying it feels way. Yeah,
+exactly. Especially in the delivery space, because
+delivery. You know, if you look back to the 1970s, when they
+started tracking it, called the labor force participation rate.
+And so the US government tracking, it was like, US
+government. Yeah. Department of Labor. Okay. Yeah. The
+Department of Labor is looking at how many people are working
+compared to the population, and that that number has been in
+steady decline since the 70s. COVID exasperated that. Yeah.
+But you know, where was less people working in at the same
+time? If you look at just food delivery service, in general,
+that's been on an increased, you know, exponential growth path
+for the last several years. COVID exasperated that as well.
+So the restaurants and the people that we talked to in the
+delivery space, it's almost an expectation. Now, you know,
+where, what if you own a restaurant delivery, you really
+want a restaurant? Yeah, exactly, exactly. You might not,
+but Uber Eats or GrubHub or DoorDash, or somebody is going
+to deliver this food to me, right? It's kind of the
+expectation. Yep. And so that's, maybe I don't want to say an
+unrealistic expectation. But when you don't have enough
+people to fill those roles, it's just not going to happen. So for
+example, in Coronado, one of our guys walked into one of the
+restaurants in the back and they said, do you see all those
+orders, and there's like 20 delivery orders sitting there,
+like they, they've been sitting for hours, and there's nobody
+going to come pick them up, like very doubtful that somebody is
+actually going to get on UberEATS or GrubHub, or
+wherever, and go and pick those orders up and take them to the
+people that want them. You know, last delivery experience I had,
+when I was on a trip to Montana, is we had delivery set for 1130.
+For lunch for there's only five of us in the room. So okay,
+lunch is gonna be here at 1130. We we ordered it ahead of time,
+make sure we got into delivery schedule, and it didn't show up
+till 2pm. And that's just because of you know, there's not
+enough people to fill those types of roles. Is that Audrow Nash: a thing that's more
+particular to small towns, do you think like basically, is the
+whole like, say, middle of America that would have smaller
+towns? or basically any, because I'm thinking of like, I'm in San
+Francisco now. And generally, it seems like the food delivery
+services are quite quick. But maybe this is so it hasn't been
+in my experience, as you've described, where there's like,
+20 orders for this kind of thing. Is this particular 20
+locations, I guess, or any types of sounds or types of towns? Jason Richards: Yeah, that's a
+good question. So Coronado, California isn't isn't exactly
+like, you know. Yeah, yeah. It's right outside San Diego. But
+it's right outside San Diego, right, you got to go over the
+bridge. So it's also very wealthy zip code. And so if you
+are living in Coronado, you're probably not the person doing
+the live delivery. So people have to come in, and then do the
+delivery within that, that area. So, so that's kind of unique
+thing. The other thing is that a lot of people, you know, door
+Dashers and people that do GrubHub and UberEATS, and stuff
+like that. A lot of them don't want to do the short, the short
+stuff. Yes. Similar to like, your Uber driver wants to drive
+you 30 miles away to an airport, they don't want to drive you
+three blocks, right? Because they set Audrow Nash: up for but in
+general, some of them are trying to generate trips and these
+kinds of things. Jason Richards: Right, yeah. But
+in general, you know, you're you're making more, if you will,
+you know, the longer you have. Yeah, you're doing the long
+trips. So so same way you know, for robot you know, this you
+know, the DAX is not DAX is not optimized to go 30 miles you
+know, he's he's got a pretty good like, one, one and a half
+mile range. And those are that's a good niche to fill. Audrow Nash: Mm hmm. Okay, could
+you Imagine pairing with vehicles and things where this
+are like kind of like the package delivery idea where it'd
+be an autonomous car that drives the robot and the robot does the
+last little bit of the delivery. Could you imagine that being
+used in that kind of thing? Jason Richards: I could. It
+would be it would definitely be interesting. Obviously, there's
+a lot of people that are working towards those types of
+solutions. Yeah. Audrow Nash: Even in the Oregon
+area to thinking of agility robotics, I believe. Yeah,
+they're trying to do the legendary Jason Richards: robotics thing.
+They're just up the road from us. So Oh, cool. Yeah. Yeah.
+Hello, Audrow Nash: litres of package
+delivery, or whatever? Is that? Yeah. Jason Richards: Yeah. And it's a
+very interesting it, you know, that, you know, last mile
+delivery is always the most expensive, you know, you look at
+logistics in general. That's, that's the hard stuff to figure
+out. Yeah. So very potentially, there's a lot of, obviously, a
+lot more that has to go into the logistics of that loading and
+unloading a robot moving parts. Audrow Nash: You need, like a
+little lowering platform or something to get the robot Jason Richards: down there.
+Yeah. And we've got a band that we, you know, haul robots in.
+And we have that, but it from from a large scale, you know,
+like if you're a big Logistics Center, like Amazon, or UPS or
+something like that, right. It's a lot of moving parts there. And
+so sure, eventually, I could see something like that, like an
+Amazon locker, you know, that that drives to a town, but then
+every locker opens up and becomes a little robot and
+drives to your doorstep. You know, it'd be super cool. Yeah.
+You know, there's, there's probably something there. But
+there's a lot of not just not just, you know, technological
+hurdles to overcome, but a lot of like legislative hurdles to
+overcome as well. Audrow Nash: Which I do want to
+talk about for sure. Yeah, legislative things are very
+interesting. But just before we do talk about that, when so
+you're not generating revenue yet? I believe, right. Jason Richards: We are we are
+now you're just doing the stages. Yep. Gotcha. Audrow Nash: I'm just wondering,
+What will your business model be? Or what is it now? Yeah, for
+generating revenue? And maybe you'll flip it around a bit. But Jason Richards: yeah, um, so
+the, the thing that we have right now is kind of twofold.
+One is that we realize kind of a back to the DAX as a celebrity
+thing. We can talk about it now, there's been a few events that
+the DAX has been in. One was for a TV show called the coma FD. So
+there was a bunch of DAX robots that they turned into
+firefighters and and get a bunch of promotion for a season or get
+one with or under. Yeah, exactly. Right. He was an avid
+he's like, my two worlds collided, this is amazing. And
+then, and then one was for a Jack, Jack Daniels. It was some
+some beverage company. And we did a delivery promotional event
+at a golf course in Napa Valley. Things like so. Yeah. So
+different marketing agencies are reaching out to us because it's
+a unique, it's unique enough, right. It's novelty enough at
+this point, that it's a great marketing engine for them. So so
+being able to do appearances and stuff has been fun. And
+obviously, it gets our brand out there as well. So that's fun.
+That's that's been generating some revenue. The the flash
+entertainment robot, yeah, right, exactly. But those are,
+those are gig events, if you will, right. It's not recurring
+revenue. So but the the actual business model is revolving
+around that you have different deployments in different states
+that are, you know, renting robots for, you know, 1000s of
+dollars a month for robot, and they're gonna do deliveries a
+service for you, which also keeps it so that we can take
+care of service and those types of things. And then those that's
+the monthly recurring model that we want to spin up. So Gotcha. Audrow Nash: So it's been where
+they buy the hardware, or where they rent the hardware. They Jason Richards: rent the
+hardware, correct? Yeah, yeah. They're renting the service of
+delivery. And we happen instead of us being humans there. We
+have robots that do it for Audrow Nash: us. Gotcha. So I
+just recently, at the time of recording this interviewed
+cobalt robotics, and they're doing something very similar for
+security guard robots, where they're having the robots
+basically be the legs and then they have someone controlling it
+at a very high level. And so to me, this is kind of similar to
+what you guys are doing, where it's you will have the robot be
+autonomous on the navigation and then you'll have a person
+control the robot for the interaction for the delivery. Is
+that Is that what you imagine? Yeah, Jason Richards: that's yeah, I
+imagine that that more and more pieces of that puzzle will get
+solved, you know, autonomously. Yeah, again, like the facial
+recognition pieces. Are you happy sad how do we make your
+day if you're a kid, what do we do you know, you know, those
+those types of things. But then say what the delivery piece you
+know, being able to get to an end destination, and then
+somebody comes out you realize that There's a person now in
+front of you, you can interact with that person. And then open
+your drawer if you know, you can see the code is correct, you
+know, those those types of things can all be young
+automatable. And that's the next pieces. Audrow Nash: Gotcha. So the goal
+is full autonomy as much as possible. I'm just wondering,
+yeah, if you would have a, like, I don't know. So in cobalt, they
+have, like, half of the people there are just watching over the
+security guards. They're the people that take over autonomy.
+And I would wonder if at least before all this stuff is
+automated, would you have some sort of similar model where
+it's, you have a bunch of people working to do the autonomy, or
+do to supplement the autonomy. So when it can get there? Jason Richards: Yeah. In you're
+exactly right. It's more of the and that's what we tell people,
+it's semi autonomy, because when people think autonomy, they
+think, full on this robot is our duty to and it does exactly what
+I want, whenever I want. But no, the semi autonomy piece is being
+able to increase the number of you know, the ratio of operators
+to actual robots that they oversee. Right. And that's the
+goal is to have greater and greater autonomy, which requires
+fewer and fewer operators, that aren't necessarily interacting
+with every single person that they see. But making sure that
+robots are, are generally staying in line with what they
+need to be doing. Yeah, you know, or if they see something
+that's completely, you know, a tree falls in the middle of
+their path. And now they have no way around, because we're not
+letting it go outside the bounds of you know, it's on a sidewalk,
+it's like, we can't go into the road. You know, so not very nice
+to take over and make a human decision of okay, we're gonna
+have to find another path, right, turn the robot around,
+but that kind of thing. So. So there will always be an
+overseer, you know, somebody that's commanding, you know, a
+crew of 20 or so robots. So Audrow Nash: cool. And how did
+you decide to do the subscription model as opposed to
+like, they buy the robot, and they're on their own, or they
+buy the robot and you like, manage it somehow? Or they buy
+it? And then they are a subscription thing? Or like all
+these permutations? How did you pick the one? Jason Richards: So the current
+one, investors really like MRR monthly recurring revenue, they
+like seeing that this is going to come in whether you, you
+know, yeah, essentially all the time. Right, versus fairly
+predictable. Exactly. And that that really rings true for a lot
+of investors. So that's one. The second is, is that when people
+have asked us to buy the robot outright, we've kind of played
+with the idea. But at the same time, we said, Okay, well, we're
+gonna have to come up with some sort of service contract on top
+of this. Because, you know, you could take a, it's not
+ubiquitous enough, where you could take a laptop to a
+computer repair shop, and they could probably figure out what
+to do or diagnose it. You take a robot that nobody's seen before,
+to like, you know, yeah, a computer repair shop, they're
+not gonna know what to do. And so at the same time, we said, it
+wouldn't, it doesn't make a lot of sense, because we did come up
+with a model and said, Yeah, well, you can buy the robot for,
+I don't remember what the number was, like 30 or $40,000. And
+then it's still going to be a, you know, a fiver $1,000 monthly
+service contract to have that robot. So we said, you know, if
+we're, we have to go that model anyway. And explaining that to
+people, they understand that they're like, oh, yeah, because
+if a track falls off, or you know, a tread wears out, or
+whatever, you know, yeah, you need to get to the restaurant to
+repair that. Exactly. Yeah. And so, so having a service model
+made a lot more sense. Yeah. To, to us, and to people that have
+been talking to so Audrow Nash: yeah. Let's see, I
+have a few questions that I want to ask all at the same time. But
+what? So you're doing things where it's like, they're in
+Atlanta, they're in California, they're in Oregon? Does it mean
+you're going to have to set up technicians at all these
+locations so that they can do these repairs? Or how the kind
+of the logistics of that work? Jason Richards: Yeah, so it's,
+um, we actually what we do is we actually find partners in those
+areas, that we can then train on some minor stuff, you know,
+usually it's, you know, computer repair shops, or people that are
+in, you know, manufacturing, robotics type hardware, maybe
+not robotics itself, but you know, something that they see a
+circuit board and they don't freak out, you know, they it's
+not like taking into a bicycle repair shop. Right? Yeah. So
+somebody that has some experience with technology, so
+we partnered with them, and then then become essentially our
+point of contact for shipping, you know, robots in and out of a
+city. And then we also we keep a hot spare that's readily
+available inside swab. I see. Correct. So if the robot has a
+problem, something happens. That yeah, we can we can within the
+day, swap the robot out with a new robot ready to go. If it's
+simple enough that we can repair with remote hands. We'll have
+them do that on a surface contact. If it's more complex
+than that, you know, the one that was there's a hot spare in
+the crate. We saved throw this one in the crate we got another
+one coming your way we ship a robot and they robots basically
+meet, you know, somewhere in the middle of America. So Audrow Nash: somebody then The
+next thing I don't know if I'm correct on this, but I imagine
+that food delivery is a fairly low margin industry, which means
+you need a lot of volume. Because and I think this and I'm
+not I don't have data and I'm not really aware. But I don't
+think that the like Uber Eats drivers are paid that well, or
+any of the any of the delivery services. And so I think it's
+more about like, How many can you get? Does this and I'm
+wondering basically, for how long before the robot would like
+pay off its existence, and start being profitable to the
+companies in this kind of thing? If it is a low margin thing?
+Because they have to make a lot of deliveries? Probably, yeah.
+This kind of thing? Yeah, Jason Richards: it really
+depends. So a good example of this would be one of the people
+that is getting the service down in the Atlanta area in
+Fayetteville, a company called nourish and bloom, and they're a
+kind of a cool new concept of a grocery store that is
+essentially fully autonomous with people that can help
+conserve eat it. Yeah, so Amazon had one that was similar in
+Seattle, where you walk in facial recognition, here's why.
+So it's Audrow Nash: that kind of thing. Jason Richards: No, it's not,
+not quite that that degree, but similar. And so people are
+coming in, they can kind of self self serve, they don't need to
+get checked out. Right. It's, it's, it's automated, you know,
+okay, so they, they wanted robots as well. But if, for
+example, you know, the, the payload is huge in a robot. So,
+how do you how do you make that valuable, and it'd be similar
+to, you know, if you're going to shop at Walmart, for example,
+versus Whole Foods, you know, the amount of money that you're
+going to make per bag at Whole Foods is, is a much higher
+margin. Walmart, for example. It's a totally different market.
+So we're not It's not like a luxury market that we're going
+after. But it is more of a high end market that we're that we're Audrow Nash: targeting, ah, so
+these things, evaluate your ad, like heating and cooling, and
+this kind of thing on your robot so that the the food arrives and
+is still tasty, not like, with DoorDash, if it's slightly cold,
+or something like this. So it's the luxury market with
+subsidized a bit too, Jason Richards: you know, if
+that makes sense, they're making higher margins on products that
+they're selling anyway, I mean, you know, Whole Foods and
+Walmart, they don't sell exactly the same thing. But the margins
+are definitely different. Right. So, so that's part of it. And
+then the other part is, is also the, that becomes a unique, you
+know, unique service that they can provide that nobody else
+does. So then drive more traffic from a marketing perspective.
+Yeah, oh, I can have a robot deliver it to me, these people
+can do that. And these people can't. So I'm going to shop
+here, even if it cost me a little bit more. Audrow Nash: I know that it's
+cool for you guys. But I'm looking forward to the day that
+it's not uncommon for robots to deliver things. I think that
+would be sweet. Jason Richards: Yeah, me too.
+Actually. Audrow Nash: That'd be nice.
+Okay, now, complete non sequitur. How does your robot
+deal with stairs? Jason Richards: It doesn't. Audrow Nash: Yes, so what? So
+I'm imagining, like in San Francisco, it's not always the
+case that there are nice curbs to get around. So it may just be
+like a sheer drop onto the street kind of thing. Does this?
+I don't know. i How do you guys decide to not do stairs? With
+the tracks? And it? Does that affect? Where the rope? I'm sure
+it affects where the robot can go? And what cities you can
+deploy in things like this? Jason Richards: Yeah, the the,
+because there's a couple things as well. I mean, San Francisco,
+Seattle as well. The San Francisco especially is known
+for some very steep streets. Right. And so there's some areas
+that we were five degrees and Audrow Nash: someplace. Yeah,
+exactly. Yeah. This kind of, so Jason Richards: we wouldn't, we
+wouldn't put a robot in that area just for that reason. So we
+had to make a couple of design decisions, right, like all
+engineers do. And one of those limitations is we said, Okay,
+where can we deploy this thing? And we said anywhere that is ADA
+compliant with current, you know, if Audrow Nash: visibility American
+Disabilities associated to a wheelchair should be able to get Jason Richards: around there.
+Correct. So any ramp, and I don't remember what the exact
+slope is, for that, but we said that that that is going to be
+kind of the max grade that we're going to we're going to be on
+which is still pretty steep. I think it's 18%, if I'm not
+mistaken. So it's still significant. I mean, somebody is
+a real metric. Give me Audrow Nash: degrees. So yeah,
+100% is straight up and so 18% is 20% of 90 degrees. So Jason Richards: yeah, I think
+yeah, exactly like that. So, it's not nothing though, right?
+It's, it's, it's sticking really soon. So, so but you know, same
+thing, you know, at some point, you know, you don't want this
+thing flipping over on its back, you know, and, and that kind of
+thing. So stairs is something that we know that we'll have to
+deal with eventually, you know, same with elevators, especially
+for Audrow Nash: delivery to Yeah,
+elevators, like I mean, my apartment building. There's
+stairs on the way in and then elevator. So it would have to
+meet me outside. Jason Richards: Correct? Yeah.
+And I know that, you know, a lot of UberEATS drivers and things
+like that can you know, come to the door and true, you know, a
+lot of them have to get wrong in you know, you hit a code. And
+usually people meet you in the lobby, something like that. So
+there's, it's not completely outside that the paradigm. But
+when we're looking at places to deploy currently, yeah,
+obviously, we're looking for places that are more flat, that
+have less stairs that are usually with up kept sidewalks.
+I mean, the small town that we're in is a nice little small
+town to live, nice place to be from. But it's a it's a great
+place to test because as terrible sidewalks. So we're
+finding out a lot of things about potholes and what we can
+and can't do gravel. You know, the elements getting through
+mud, you know, that kind of stuff, which is obviously great
+for a testbed, but not an ideal deployment. Audrow Nash: Yeah, let's see.
+And we are starting to run out of time. So I would love to talk
+about legislation for the robot, because this is an interesting
+thing that I hadn't considered before you brought it up. So
+yeah, just tell me a bit about it. In January, Jason Richards: yep. I didn't
+know much about it either. Until I until we started looking at
+deploying into different places. And the first place that had
+legislation for delivery robots, was in Washington, DC, and that
+that came out in 2017. And had different different factors
+involved weight, maximum speed, when it can and can't be on the
+roads, you know, safety information, etc. And so
+different states have adapted that to very similar, you know,
+everything is fairly similar to that. Pennsylvania, for example,
+they said that, yeah, we're going to give it the same rights
+as a pedestrian minus a little bit, they do have to yield to
+pedestrians. And, and so, in California, and Oregon,
+interestingly enough, doesn't we don't have state laws regarding
+robots on sidewalks. So it's up to individual cities and
+municipalities to do that. San Francisco banned them in in
+2017. He said, disappointment. Yeah, yeah. And, and then they
+made it very, they made a very small exception and a bunch of
+hoops that had to go through, I think Postmates is allowed to
+have like, two in San Francisco now. And that's it. And the
+reason for that is, has to do with pedestrian space, you know,
+people, again, the reason that dexpot is, is it's just
+different, you know, it's different than any other
+delivery devices out there. So in the legislation, they call,
+they call it a PDD, or a personal delivery device. So
+which essentially can be whatever you want it to be to
+put a skateboard and put a motor on it, and then say, you know,
+drive it remotely with a camera. That's a personal delivery
+device, and it can drive wherever it wants on sidewalks.
+And that's how this legislation refers to correct what we're
+referring to as a delivery robot. Okay, correct. Yep. And
+so the PD ds, and so a PD DS, we want it we're working very hard
+with we, you know, worked with the state of Maryland on their
+legislation working with the seat at Coronado on on rules
+around it. And the thing is, is that people don't have a concept
+of what it could be like to have DAX, if their only experience is
+a remote control box that is getting in their way at their
+feet. They don't want it there, versus DAX, which is a robot
+like you would see in a movie that is welcome in human space,
+like a dog is. And so helping, you know, change the legislation
+is a big deal, because there are a lot of places that it does not
+make sense. And it's because people don't want delivery
+robots on their sidewalks, you know, but when they if you just
+look at it from that box perspective, you know, like an
+engineer, like I want this box on wheels, it makes sense. It's
+an easy design, it's easy to do. But that is not what is being
+accepted. So the human acceptance piece and pedestrian
+space is a much bigger deal than most people realize. And that's
+that's the thing, the DAX is essentially solved for that, you
+know, being able to be welcomed on pedestrian spaces. Audrow Nash: That's interesting.
+So it's, it's as if part of your role in being involved with that
+spot, is that you have to work with lawmakers and things to try
+to show them that this robot is okay in human spaces, and should
+be allowed and this kind Jason Richards: of 100% Yeah,
+because, because if this is the future that we want, namely want
+robots to be able to do more things in pedestrian spaces, we
+have to make sure that we're not legislating our way out of
+existence. And not just us. I'm talking about, you know,
+robotics engineers in general, if you're doing something that
+is in is public facing, most people think it's all magic,
+right? People that are engineers understand there's a lot of, you
+know, mechanics and software and connectivity. There's a lot
+behind these machines. So I guess my hope is that, you know,
+other people that are out there are not doing things that would
+then jeopardize, you know, urban robots for everybody else,
+similar to how drones were, you know, when drones were
+introduced. A lot of people did a lot of really silly things
+with them, because it was cool technology. And now there's so
+many regulations around drones. And they can be very, very
+useful, but they're not as useful as they could be, usually
+because of legislation because people did some silly things,
+especially in the beginning. So Audrow Nash: okay, so how do you
+avoid doing silly things? For this? If you're trying to like,
+do something and you don't know, it'll be silly. I assume people
+don't go into an endeavor going, this is going to go badly. And
+it's going to hurt everyone, because crazy regulations will
+be passed for this, like, way over correct. And make sure this
+doesn't happen again. Oh, absolutely. So how do we avoid
+things? Jason Richards: You have to
+question? So like the San Francisco problem, for example,
+I'm sure that the engineers were like, Hey, we're gonna take this
+thing on the road, and everybody's going to be in love
+with it. Audrow Nash: What's the problem?
+What do you mean, the oh, that they're, Jason Richards: they're illegal
+in San Francisco? Oh, yeah. We can't make a delivery robot to
+San Francisco. And whoever, you know, was a part of doing that
+test. The engineers, whomever, I'm sure they were thinking this
+is going to be amazing. And everybody's going to love it.
+And then people did. And so when we go to new places, for
+example, usually we're finding out you know, what are the
+rules, you have rules around this? And then giving usually
+the police department a heads up, you know, hey, we're going
+to be doing this, we're going to be here. So when they, yeah,
+when they get phone calls from people, hey, this robot is or
+there's this thing in my way, or this thing? hit my car,
+whatever. We haven't, hopefully not. But yeah, yeah, there are
+others that have. So when they get calls, they're not
+completely blindsided, and then they get an angry phone call
+from the mayor. Right? And then that's how those things happen.
+You know, it's a couple decisions makers, they hear from
+some angry people in their city that can then essentially, like,
+make it up make little buddy eyes. Yeah, yeah. So just more
+being aware and conscious of, you know, where, where are you
+at, you know, who's around, and making sure that that, and not
+necessarily calling City Hall because they won't know. But if
+you call usually the local police department, and just ask,
+Hey, you know, we're gonna be in this area with this robot. Is
+there any rules around that? They'll usually be able to tell
+you yes or no, you say, great. We just wanted to let you know
+we're in the area, give you the heads up. And so that, you know,
+if it's some robot rolling along the street, and people think
+Armageddon just happened, that they can realize no, no, no,
+this is this company, and I've got their contact phone number,
+you know, so. Audrow Nash: So this is like
+going to, I don't know small towns and things like this and
+or at least individual places and talking to them and telling
+them. This is what we're doing talking to the local police
+department. How How will it be to go bigger than there? So if
+it's like, statewide, or federal or? Jason Richards: Sure, yeah, when
+I talk to local police department like Portland, Oregon
+isn't isn't a small town, right. But I'm calling you know, the
+Portland Police Department and talking to them, whoever you
+have to talk to, you know, at that, at that level, let them
+know what's going on. Going from there, though, most of the
+regulations are actually going through the Department of
+Transportation. So it's finding who at the department of
+transportation needs to be aware of this, if you're going to make
+a law. Again, the legislative process takes a long time, you
+know, for laws. So I would not recommend usually people go that
+route first. Especially if they're a smaller VLANs Audrow Nash: are going to keep
+growing kind of unfettered, you would need these laws in place
+at a state and then maybe federal level, correct for this
+kind of thing. Jason Richards: Yeah. And
+federally, I don't know if that will ever, it might, you know,
+come come about some regulatory agency like the FAA, the Federal
+Aviation Administration for drones, but probably not, it'll
+probably stay at a state level and a local level. And so the
+more that you can build rapport there Audrow Nash: by completing all
+of the local police departments, yep, Jason Richards: that you're safe
+on there, and you're going to be responsible. That's the thing
+that people care about more than anything, it's this thing is
+safe, and we're being responsible. And even the bigger
+piece of that, you know, obviously we don't have time
+talking about privacy and you know, things like that data
+security, this isn't big brother spying on you, you know, that
+kind of thing. But, but as long as people know, they know that
+they Audrow Nash: may get it written
+in Yeah, yeah. Okay. Yeah, that's cool. Let's see. So what
+is the timeline for you guys like beginning to wrap up? What
+do you expect the next few years for you guys? Or where are you
+going? Yeah, yeah. Jason Richards: So I expect the
+next couple, a couple of years, you know, 2022, the goal is
+really to have about 100 robots out in service in different
+places, we want to keep it to about, you know, 10, maybe 12
+geographic locations, you know, so by that, you know, Los
+Angeles, well, there's Long Beach, and there's different
+places. So, you know, if we're in Greater Los Angeles, how do
+we grow from there from that hub? Atlanta, Georgia, you know,
+how do we grow from that hub, we go to Washington, DC, how do we
+go from that hub. And so we want to have about 10 to 12 hubs or,
+you know, bigger deployments in a geographic region that we can
+then grow and expand from, because that will really, you
+know, really set the tempo for commercializing. So with the
+crowdfunding rounds, being able to build the robots that we need
+to deploy them into these areas. And then once we have that,
+essentially, the operational piece has been figured out,
+right, there's revenue, so that more it'll attract more
+investors, maybe higher level investors. So then we can go
+from that and then manufacture on a greater scale to, you know,
+1000 o'clock, this kind of thing? Exactly, yeah, bring the
+cost down, bring the autonomy up. Because both of those things
+happen, right? It makes you know, better, better margins, so
+you can grow faster, and then be able to be more the face of
+robots in the same way that Tesla became kind of the face of
+electric cars. We think that DAX is going to be more of the face
+of, of urban robotics that does delivery, because delivery
+robots, again, isn't a unique example, or isn't a unique idea.
+But the way that we're going about it is that it's cool.
+People want that to be in their towns and on their streets. So
+it's going to be readily accepted in in ways that other
+companies probably won't be right now. Audrow Nash: Or hopefully, so
+yeah. Yeah. Awesome. Okay. And then, what have been some of
+the, like, larger challenges for you guys so far? And what would
+you do differently? to kind of get even where you are still? Jason Richards: Yeah, um, larger
+challenges. You know, one of the things, you know, is, is
+building an operating system from the ground up because Audrow Nash: of an operating
+system from the ground. Yeah. Jason Richards: Oh, yeah. Called
+DAX Oh, s that are DAX, those, say, Dax. Audrow Nash: It's like, we're at
+the end of the interview. And that's a very interesting thing.
+Okay. Jason Richards: It is very
+interesting. The founder, great, great guy. And so his his thing
+is, you know, obviously, business savvy enough to know
+that we can't just open up access to everybody out there in
+open source at this point. But that is the ultimate, you know,
+I think that's his ultimate objective is he wants to be able
+to open up DAC, so S, which is a Ross like, software, you know,
+but it's way more than Audrow Nash: that it does
+message passing and things like this store. Yeah. Yeah. And it
+helped and visualization perhaps. Jason Richards: Yeah, it does,
+it does a lot of pieces. And one of the pieces that we have is,
+as far as the firmware piece is called a nova node. So it, it
+basically is an extensible piece of the robot. So you can plug in
+another Nova node. So for example, we say, Okay, we need
+an iteration where DAX has an arm so we can push buttons or
+whatever, we plug in another Nova node. And then DAX knows,
+oh, now I have this arm. And now I'm able to do this, this thing.
+And it's, it's a higher level intelligence and has to do with
+a lot of the patents in the higher level architecture stuff.
+But Daksa was that was that's something that is absolutely
+fascinating to me, my background is software. So it's, it's
+really fun for me to be able to nerd out with the the software
+guys a little bit and hear the high level architecture around
+it. And again, that that was one of the things that the founder
+wants, I mean, he he, this is the vision that he has for this
+could be like a future thing. So we want to make a an operating
+system that, you know, that is able to be open source so that
+other people can can develop against it as well and build
+their own stuff similar to like how Ross is, if that makes
+sense. You know, people are familiar with the Ross, you
+know, robot operating system. But DAX DAX Oh, s would be
+similar in that vein. Audrow Nash: So like, is it? Is
+it a real operating system? Because the robot operating
+system is not a real operating system? It's like a flavor of
+Linux or something, or what is your deck? So yeah, you'd be
+right about that. Yeah, Jason Richards: it's it's it's
+more of a flavor of another one. But it's, yeah. When you talk
+about Ross, people think oh, operating. I know. Yes. The
+communists know, for sure. Yeah. But so. So yeah, we'll put it
+that way. Yes. So yeah, on Linux, a lot of Linux based. Audrow Nash: I feel like it's a
+very interesting idea. And one of the things that I see is kind
+of like I mean, one of the things that's really nice with
+Ross is the whole community and all of the things that have kind
+of become fairly battle hardened there. If it's if it's too big
+of a deviation from like Ubuntu or some of the other larger
+distributions, I feel like it would make it so that there is
+you can't reuse a lot of what exists even like, sensor
+packages and stuff. But you guys are clearly doing things with
+different sensors. So yeah, I don't know, right? Yeah. Yeah.
+Yeah. Is it similar enough that you can use like anything on
+Ubuntu? Or? Oh, okay. So it's not that large of a deviation
+for this kind of thing? Is it real time? So is it a real time
+operating system? Yes. Cool. So it's deterministic? That's
+awesome. Jason Richards: Yeah, it's one
+of the one of the patents that Audrow Nash: could be my talking
+a little bit longer. So we could talk a bit about this shirt.
+Yeah. I talked about that something at the hour to run a
+no, no, i Yeah. i Jason Richards: I'll take off a
+little bit after that. But yes, yeah. So the the high level, one
+of the patents that was out there is being able to
+essentially have a voting system. How did the I don't
+remember how was put it basically democratizing decision
+making. So with the, the Nova nodes, for example, you know,
+that the robot has several different ways that it can
+communicate, but then how does it know which is is the most
+important thing to do? So for example, you say, hey, robot,
+you need to take this package and deliver it to this, this
+destination robot thing goes down that that road and says,
+oh, there's a tree in the way. This boat is telling me that I
+need to go that way. You know, what did the other boats say?
+And being able to then analyze, what are all the other factors
+going on? What is the next thing that we do? And so that was that
+is? I'm like, What's your Audrow Nash: tree? But like, it
+sounds like, I mean, so you could have a state machine or
+something. But it sounds I mean, then that could be represented
+as behavior a lot more. You have more logic kind of built in,
+baked into it. Right? Jason Richards: Okay, a lot
+more. Exactly. And a lot more real time type logic, like, what
+is going on, right now, as the environment is changing? Because
+the environments changing all the time, like, do I stop? And
+so a better example would be like, Okay, I'm, I'm supposed to
+deliver this package, but I see this, this six year old girl
+coming towards me, do I stop and talk to the girl? You know,
+based on what based on? Oh, I've got time? You know, okay, yeah,
+that would vote. Okay, we're gonna vote, we're gonna stop for
+30 seconds and say hi to this girl, versus just blowing past
+because I've got something to do. But sometimes it can be
+known, this is a higher vote, because you need to get to this
+destination by this period. And you know, so. So that that is a
+big piece of kind of the patents behind it is being able to have
+a voting system. Yeah. I mean, to know what to do next. Audrow Nash: Interesting. Yeah.
+I mean, the voting system, like you could you could figure out
+an, like, several ways of scheduling, what would be
+important. It could be probabilistic. It could be like
+a integer voting system count. It could be real numbers, or
+whatever it might be. Yeah. And then it sounds like it's a
+movie. So it sounds like you have more of a behavior tree
+setup, where it's like, I'll choose this or this or this
+based on different options that are available. And that's very
+baked into this, this kind of conditional logic of what to do.
+So maybe it has a nice representation of how to encode
+these kinds of behaviors, or something is that so it has a
+nice way for programmers to define what it is to that should
+be considered in making decisions or how to prioritize?
+Yes, yeah. Jason Richards: Yes. I'm sure
+that Wilkinson is our he was a, he worked at Tesla for a while,
+and I'm sure he would be shaking sensing. Jason, you're totally
+butchering it. He was one of the main architects of it. But
+anyway, Audrow Nash: so with that, I
+noticed right now, you don't have very much on your on the
+company GitHub website. Yeah. It would be very nice if this that
+you're talking about would be open source. So that can be
+poked around. And we can look at it in this kind of thing,
+because that would be very cool. What Yeah, what is on there is
+mostly JavaScript, which is interesting to me. Could you
+tell me a little bit about the decision? I don't know. It's
+like your operating system. A lot of the code that you're
+running is running in like a Node js framework, which is like
+a, but is it server side JavaScript framework? Jason Richards: Yeah, we get a
+lot. We do do a lot in Node js. Audrow Nash: So Gotcha. Yeah,
+you Interesting. So it's gonna be like a no JS Ross like thing
+that has behavior trees. Would that be a way to think of? What
+do you call it again, called DAX. Jason Richards: So DAX is just
+like the robot XO Audrow Nash: s. Okay. Yeah.
+Yeah. Gotcha. Cool. Yeah. Any timeline on open sourcing that?
+Because around No, Jason Richards: I don't have a
+timeline. And, unfortunately, right, you have to wait, you
+know, the business, the business decisions versus, you know, it's
+somewhat similar, similar with patents, you know, anybody that
+that has dealt with patents or, you know, litigation around
+that, patents aren't necessarily the end all, it's not like, hey,
+we invented this thing. And nobody, it's actually more of a
+defensive mechanism. So if a company decided that they wanted
+to file a lawsuit with us and say, Hey, we have this patent on
+this thing, and it's really a, well, we have a patent to, you
+know, so this is why we're allowed to operate in this
+space. So, so that that is, from a business standpoint, that's
+the same reason that patents exist. But the other piece of it
+too, obviously, is protecting intellectual property, I get
+that. But in the same way, like, you know, writing, you know,
+source code and things like that, if you let out too much of
+the secret sauce, when you're in like infancy type stages, you
+know, like this, it could, could put you out of business, not
+super likely know, that somebody would take and be like, Oh,
+we're gonna do exactly what DAX did. But the but the founder,
+that's definitely one of the things that he absolutely loves,
+is, you know, wanting to make this open source. So I don't
+know what the dollar amount is, or the the comfort level is to
+the point where he's gonna want to open this up to the world.
+But that's something that he talks about pretty regularly,
+you know, wanting Okay, well, that'd be really cool. It Audrow Nash: would probably be a
+good way to battle hardened it to absolute like you guys are
+running it. And what I mean, so you said you currently have
+about 10 robots. By the time you have 1000 robots or something
+like this, it'll probably like, the software is going to get a
+lot more battle hardened, because you'll just have run it
+through so many things, but the community probably could help in
+that process. Oh, yeah. Absolutely. Like, it's amazing.
+To me some of the things like I mean, there's so I guess, I
+don't know what's public that I can say. But there's a lot of
+very, I would not expect open source to be used in a lot of
+really critical projects that are done by companies that have
+a lot of stake in reliability. And I'm very impressed that a
+lot of open source software is being used there. So it does
+battle hardened. And so it might be a benefit for that reason to
+and then also people would have a better point of comparison to,
+to look at it and see if it's useful and this kind of thing.
+And that would be awesome. Yeah, absolutely. Okay, so now we are
+going a little over time. What do you I guess, wrapping up any
+links or contact info or anything you'd like to share
+with our listeners? Jason Richards: Sure. Yeah, I
+think that, again, you know, those that are listening just
+via audio, you know, can't see the robot behind me. So if you
+go to DAX bot.com, that's D AX vo t.com. That's, you know, you
+can see kind will Audrow Nash: links with the
+episode so that they can just click if they look in the
+description. Jason Richards: Yeah. And then
+those of you that that are so inclined, start engine comm
+slash dexpot is where we're doing our crowdfunding raise.
+And you can take a look at kind of the kind of the more the
+business plan around it, you know, kind of the the need and
+the focus that we're, we're filling and all the legal stuff
+we filed with the Securities Exchange Commission. So anyway,
+those would be the two things tax bot.com and and start engine
+slash tax bot. And yeah, Audrow Nash: appreciate that.
+All right. Awesome. Been great interviewing you. Yeah, you too.
+Thanks so much. Audrow. Thanks for listening to this
+conversation with Jason Richards. Thank you again to our
+founding sponsor, open robotics and I hope to see you next time 
