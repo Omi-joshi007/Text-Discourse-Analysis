@@ -1,0 +1,55 @@
+HOW GOOD'S OUR TRACING, REALLY?
+In theory, contact tracing is as good as a lockdown for containing Covid-19. The reality is a little different, say Katie Kenny and Steve Kilgallon .
+--------------------
+New Zealand has long been promised a "gold standard" contact tracing system to manage outbreaks of coronavirus.
+The public health measures of testing, tracing and isolating Covid-19 cases are potentially as effective as a vaccine, infectious diseases expert (and now a Labour Party candidate) Dr Ayesha Verrall wrote in her April audit of the country's contact tracing systems.
+Following the audit, which found the system to be woefully inadequate, the Government promised to commit the resources to bring it up to scratch.
+As New Zealand is again battling to eradicate coronavirus, how far have we come?
+Contact tracing is the identification and isolation of people who have been exposed to an infectious case of Covid-19, to prevent transmission to others. If New Zealand were able to do it quickly and accurately enough, lockdowns could be avoided.
+Twelve public health units are responsible for management of infectious, notifiable diseases, including Covid-19. In March, the units' capacity was found to be the country's limiting factor in its ability to contact trace the virus.
+The Ministry of Health quickly set up a National Close Contact Service, to help out during times of high demand.
+Back then, the system was overwhelmed by fewer than 100 cases a day. Verrall said it should be able to deal with up to 1000 cases a day. (Director- general of health Ashley Bloomfield said that recommendation was based on "no particular science".)
+The Government promised a "gold standard" contact tracing system during lockdown, announcing $55m to help build it. "Gold standard", the ministry confirmed, meant being able to trace within three days 80 per cent of people who came into contact with a Covid-19 case.
+Another, subsequent review, by consultants Allen & Clarke, commissioned by the ministry in April, again looked at how well public health units were positioned for rapid contact tracing. Things had improved, but they still weren't great.
+The main concern was "information management and data collection". Some units were not making use of national databases, instead relying on Word and Excel documents.
+"The lack of a common system presents risks and limits the ability of the ministry to obtain a consistent national view of contact tracing," the authors said.
+Units also struggled to build a contact tracing workforce with the right skill set: "A balance of medical and investigative skills".
+In response, the ministry provided public health units with access to the National Contact Tracing Solution, a cloud-based platform containing case and contact details linked by exposure events.
+As of June, the ministry was working to get three remaining units (Auckland Regional Public Health Service, Community and Public Health, and Regional Public Health) to make use of the platform.
+Gold standard, or Mickey Mouse?
+On Tuesday evening, Prime Minister Jacinda Ardern announced four new cases of Covid-19 had been detected in South Auckland, 102 days after the country's last reported case of community transmission. The source of the infection remains unknown.
+Contract tracing systems went into overdrive to try to find the source and contain the virus. By yesterday, 17 new cases were linked to the outbreak. The number is expected to rise.
+But one potential close contact of the South Auckland family with the index case of the virus said his experience with the contact tracing team was "very Mickey Mouse".
+The man, who asked for anonymity, spoke with a contact tracer on Wednesday evening, after being told he was considered a potential close contact of one of the four initial positive cases.
+He was left dismayed by the encounter, saying the tracer wasn't interested in his recent movements, the names of other people in his house, or other contacts, despite him volunteering the information.
+He had expected someone would visit him to test him for the virus, but was instead told to join the queues at testing stations - something he'd already attempted that day, but given up after several hours' wait. He managed to get tested early yesterday.
+"There was no contact tracing of people I've seen - it was 'Go get a test and see ya later'," he said. "They didn't ask who lives here, and who I've seen. I told them about the kids' sport, and my own activities, but they didn't seem interested.
+"I've got contacts of my own stressing out about it and I don't know what to tell them."
+The man said he'd been given a voucher allowing him priority testing, but did not see how he could use it to jump the long line of cars.
+He'd been asked if he could entirely isolate from the rest of his family, but pointed out they had all been in close contact over the previous week, so he would surely have infected them if he had contracted Covid-19.
+Instead, he was told the family must all stay home, except to exercise, and couldn't go shopping for themselves. He said the caller indicated he might be contacted again in 48 hours, but he was left very uncertain about what expectations he was now under.
+The ministry did not respond to questions from Stuff about his case before deadline.
+The contact tracers
+On Wednesday, Ardern said 160 people were working as contact tracers. By midday, they had made 100 calls. By 4pm - 24 hours after Ardern had been told about the positive test result - all 200 identified close contacts of the index case had been contacted.
+The system had the ability to trace 350 contacts a day, she said.
+Cabinet papers dated June 5 noted the national turnaround time for contact tracing was in fact meeting the "gold standard" target, with 83 per cent of close contacts being isolated within 48 hours of a confirmed case.
+By the end of June, public health units were to have the ability to scale up to 500 new cases a day at three to four days' notice. Thanks to trained callers on standby, they would be able to make 10,000 calls a day. A contract with "an external health provider" would provide capacity for an additional 10,000 calls.
+Alongside the manual contact tracing system, the ministry developed an app to collect people's updated contact details and help them keep track of their whereabouts. However, the NZ COVID Tracer app was not released until about a week after the country's transition from alert level 3 to level 2, on May 14. By that time, the market was already flooded with private-sector tools, and the threat of Covid-19 seemed further away.
+At the end of June, the average user had scanned just two QR code posters in total.
+But with Covid-19 again front of mind, more than 338,000 Kiwis downloaded the app in the 48 hours following the news of the South Auckland cases. Now, it has just under 1 million registered users, about a quarter of the eligible population. (Those figures don't include use of other contact tracing apps such as Rippl.)
+For the first time, yesterday, the ministry also sent out alerts via the app, to let users know if they'd been scanned into locations at the same time as those who later tested positive.
+But experts remain unconvinced about the app's long-term potential to aid contact tracing efforts. Many are looking to CovidCard, a Bluetooth card being trialled in Rotorua. The card is designed to automatically detect others within close proximity, meaning if someone is later diagnosed with the virus, potential contacts can be easily traced.
+AUT's Professor Dave Parry says the CovidCard would be much easier for people to use than the app.
+"We're used to carrying cards for identification purposes. The reason there's such low uptake of the app is partly because it's not a very natural thing to do, and it's hard to see what the actual benefit is."
+While the Government is making it compulsory, as of August 19, for businesses and services to display a QR code, there is no real motivation for people to scan it, Parry says. "You have to make it worth people's while to use it regularly."
+Bars and restaurants could check people had used the app, or manually recorded their visit, when they pay, he suggests. "The core message should be to get the tick as soon as you go into a building."
+The country's contact tracing system wasn't designed for the current situation, he says. "Normally, it's for when someone gets sick after eating a meal at a restaurant."
+Parry suggests offering people freedom from lockdown if they use the app. "I can see [authorities] saying people can leave Auckland if they want to, but they must be using the app regularly. If their use drops off, we'll contact you and see what's going on.
+"We're going to be living with Covid-19 for a long time. At the moment, we don't have a half way between isolation and freedom. We need a somehow enforced approach of saying, this data has to be collected, and we'll guarantee it'll be kept private and safe."
+Victoria University senior lecturer in software engineering Dr Simon McCallum says even if people don't use the app regularly, the act of registering their contact details can help with manual contact tracing.
+Genomic sequencing - sequencing the genetic material or DNA of an organism - is also being used to track down the source of the recent Auckland cases. The virus' genetic material provides clues about where in the world it has come from, because it mutates as it travels.
+Auckland University's Dr David Welch, at the centre for computational evolution and school of computer science, says the turnaround time for sequencing is about a day.
+Comparing genetic sequences could potentially locate the source of infection for a case, Welch says.
+"For example, it can identify which quarantined case a new case is linked to, or whether there is more than one chain of transmission in the community."
+It's unclear whether contact tracing efforts have been scaled up again since Wednesday, and whether they'll be enough to prevent the country from entering another full lockdown.
+The ministry didn't respond to questions about its current capacity.

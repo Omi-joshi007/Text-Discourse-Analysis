@@ -1,0 +1,27 @@
+CONTACT TRACING STUCK IN LOW GEAR
+An under-resourced contact tracing system blamed for keeping New Zealand in a state of lockdown has the capacity to investigate fewer than 200 coronavirus cases each day.
+An audit of the system released on Monday showed that health officials tasked with interviewing and tracking the close contacts of people with Covid-19 had been swamped by fewer than 100 daily cases of the virus before New Zealand entered lockdown.
+To prevent any future outbreak of the virus running rampant, the audit recommended the tracing system be able to manage 1000 new cases a day, and trace their contacts within five days.
+The Ministry of Health, which has worked to bolster the system's capacity in recent weeks, has confirmed the system is currently capable of tracing 185 Covid-19 cases a day and making 10,000 calls a day.
+The ministry held the report for 10 days before releasing it after a $55 million funding boost for contact tracing was announced by the prime minister. Stuff understands the Government wanted to have a response ready to the report before releasing it.
+Dr Ayesha Verrall, an expert in infectious diseases who the ministry commissioned to write the audit, told Stuff she was unsure why the ministry delayed the audit's release, and said it was possibly due to a need to have its "ducks in a row" for the funding announcement.
+Due to the delay, she was unsure what the current capacity of the ministry's contact tracing system was.
+When she wrote the report on April 10, she found the system was overwhelmed by fewer than 100 daily Covid-19 cases in March.
+The subsequently established National Close Contact Service - a call centre to help regional public health units - was slow to contact cases and could only reach 60 per cent of people by phone.
+Verrall recommended more resources be put into regional public health units so they could trace three to four times the number of contacts. She also advised that a plan was needed to manage outbreaks of 1000 cases a day, and that issues with information systems should be ironed out.
+"We didn't really invest in the public health and infrastructure enough to be ready for this type of threat . . . It's like earthquake preparedness, isn't it?
+"You need to be prepared even though you hope to never have to use your capacity."
+A Ministry of Health spokesman, in a statement responding to questions, said an additional "surge capacity" of 300 full-time staff would be made available to the regional public health units as part of the $55m in funding.
+He didn't say when they would be hired, only that the work was "currently ongoing and will be updated in the coming weeks".
+There were 220 staff at the national call centre, which could make 5000 calls a day.
+"We have planned to scale to meet any potential demand at the moment," a statement read.
+"The current [national] call centre has . . . capacity to scale up to 10,000 calls a day if required which provides capacity to manage a range of scenarios."
+The spokesman declined to confirm reports that it lacked a third of New Zealanders' contact details, instead saying there were "a number" of people for whom it lacked updated details. It was working with other government agencies to update this.
+Director-General of Health Ashley Bloomfield told RNZ that there was "no particular science" behind Verrall's recommended capacity. The ministry was instead building capacity to manage between 300 and 500 Covid-19 cases each day.
+On Monday Bloomfield said the national call centre had contact details for "well over 95 per cent" of the population.
+"One of our best ways to get up-to-date contact details for people is when they enrol through their general practitioner with the PHO [primary healthcare provider]. And that is updated - a file is sent - every month into the Ministry of Health and the information, any updates, on address information goes into the NHI [national health index] at that time, so it's very contemporary."
+Sir David Skegg, a leading epidemiologist advising MPs on the epidemic response select committee on Tuesday, said that if the contact tracing system had reached the "gold standard" the country could have left lockdown on Wednesday evening.
+"We must hope that a fully adequate system will be in place before the country shifts to alert level three next week."
+That New Zealand had 16 clusters of the virus that were able to grow was evidence of the public health system failing, Skegg said.
+Sir Peter Gluckman, a former chief science adviser to the prime minister, said the contact tracing system's capacity and speed needed to be improved before the country could safely move down to level three, and level two.
+"Contact tracing was not at the state where it was wise to go out of level four . . . And I think being more sure of our tracing and tracking capacities while we're in level four makes it possible to have a very short level three transition."

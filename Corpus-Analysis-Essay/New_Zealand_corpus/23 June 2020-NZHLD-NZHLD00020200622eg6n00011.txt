@@ -1,0 +1,19 @@
+Govt warned of Zoom risks
+Spy unit said before lockdown that using video link for Cabinet meetings a concern
+A“light security review” by the GCSB warned of several security concerns around the use of Zoom in Cabinet meetings on the eve of the level 4 Covid-19 lockdown.
+And emails from officials in the days leading up to the more than four-week lockdown reveal concerns that Zoom was “not secure enough for classified communications”.
+Despite the concerns, it appears Prime Minister Jacinda Ardern did give the green light for Cabinet to meet via Zoom after her officials felt confident that appropriate security measures had been taken.
+Level 4 meant the weekly top-level meeting between Government ministers had to be done remotely.
+The emails — as well as high-level advice from the Government Communications Security Bureau (GCSB) — were released under the Official Information Act (OIA).
+The day before the level 4 lockdown began on March 26, the GCSB provided advice in the form of a memo about the Government’s use of Zoom during alert levels 3 and 4.
+The emergency advice — which the memo said was produced “at pace” — was provided given the fact that the usual meeting processes could not be in place during the lockdown.
+The memo noted that Zoom has had publicly disclosed security vulnerability in the past — including issues identified where hackers could remotely access video conferencing.
+When it comes to the use of Zoom, the memo warned: “There is a suite of security risks associated with using video conferencing tools”.
+Three days after the GCSB advice was provided, an email from an official from the Department of Prime Minister and Cabinet advised that it was Ardern’s expectation that Zoom was to be used for the upcoming Cabinet meeting.
+Advice from the Government’s chief information security officer, Steve Honiss — also released under the OIA — said that ordinarily systems like Zoom would not be used without a full accreditation process being run by GCSB.
+“However, the urgency around keeping the business of Parliament and the Executive Branch working over the lockdown period has meant that a light security review was able to be undertaken before Zoom could be deployed.”
+Honiss said important security measures must be followed when using Zoom, in order to minimise security risks.
+Subsequent emails reveal officials were confident these measures were taken — “it looks like we are in a good place for Cabinet tomorrow,” an email from March 29 read.
+Not long after that Cabinet meeting, the National Party called for the Government to find a more secure platform than Zoom.
+Ardern said at the time that Zoom had been vetted by security agencies.
+She said it had been given the green light for conversations up to “Restricted” level — or below the Secret and Top Secret levels in the GCSB’s official guidelines.

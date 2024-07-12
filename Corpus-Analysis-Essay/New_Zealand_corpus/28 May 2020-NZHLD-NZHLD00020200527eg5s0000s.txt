@@ -1,0 +1,29 @@
+RBNZ stress model shows banks needing shareholder cash if NZ ends up in another...
+RBNZ stress model shows banks needing shareholder cash if NZ ends up in another 8-week level 4 lockdown, writes Tamsyn Parker
+Banks could be forced to tap up their shareholders for more capital if New Zealand were to go through a prolonged and severe economic shock from the coronavirus pandemic, stress testing by the Reserve Bank has revealed.
+The central bank spelled out the results from two different scenarios it has been looking at to assess the banking system’s resilience in its six-monthly Financial Stability Report released yesterday.
+In a worst case “very severe scenario” with unemployment peaking at 17.7 per cent and house prices falling by 48 per cent banks would likely fall below several of their minimum regulatory capital requirements.
+“In this situation, banks would have to undertake significant recovery responses such as raising new capital from shareholders to avoid resolution options,” the RBNZ said in its report.
+Unemployment was at 4.2 per cent as of the end of March but is expected to rise to between eight to 10 per cent by the end of the year.
+The Reserve Bank’s current forecasts are for unemployment to peak at 9 per cent with a house price decline of 10 per cent.
+Reserve Bank governor Adrian Orr said he expected banks to cope well under that scenario although there would still be losses on bank balance sheets.
+“We do anticipate lower economic growth, lower inflation and rising unemployment over the remainder of 2020.
+“So there is a big challenge for us here in Aotearoa New Zealand and globally.”
+But he said New Zealand’s financial system was in a solid position to both weather the economic downturn and also to be a significant part of the recovery process.
+“Of course this will not be without challenges ... there will be losses on bank balance sheets.
+“There will be economic hardship in pockets but the financial system as a whole remains solid.”
+Orr said the purpose of the stress tests were to see how widely the banks could manage.
+It showed that under different scenarios the banking system would remain robust but not under all tail scenarios.
+In a baseline stress scenario where unemployment peaked at 13.4 per cent and house prices fell 36 per cent it estimates banks could maintain capital above their minimum capital ratios.
+But they would fall into their “conservation buffers” meaning they would be meeting their regulatory requirements but also required to develop plans to repair their balance sheets over time.
+Orr said the biggest thing that would affect the banks was high and sustainable levels of unemployment because it was household lending which dominated the balance sheets and household incomes that was most important.
+Conditions for a worst case scenario could come about if New Zealand had to go into another level 4 lockdown for a further eight weeks although it was not the lockdown which mattered so much as the unemployment it could cause.
+Orr said while stress tests were useful for “creating a narrative” they couldn’t predict how things would actually pan out.
+The central bank would further refine the results as it worked with bank staff to understand and model how the scenarios would affect their institutions.
+Banks have already begun provisioning for the economy to go into recession and potential loan defaults.
+ANZ has set aside $200 million, while Westpac had a $147m Covid-19 linked provision in its accounts and BNZ $108m.
+But Westpac’s New Zealand Banking Group six monthly disclosure statement also reveals banks are planning for much worse. Its provisions for expected credit losses on loans and credit commitments were $552m as of March 31, up from $352m in October but under its worst case scenario it forecast credit losses to be $748m.
+“Covid-19 has had a significant impact on global and domestic economies and, as such, many of the NZ Banking Group’s customers.
+“The current and prospective rapid deterioration in the economy due to Covid-19 has resulted in a material increase in the provision for ECL [expected credit losses].”
+But it warned that its model were also expected to be subject to a higher than usual level of uncertainty during this period.
+On top of that the bank also assessed its business lending as having $9 billion of high rated business loans and credit commitments on which a lifetime expected credit loss overlay had been determined and $1.5b in retail exposures which had a lifetime expected credit loss.

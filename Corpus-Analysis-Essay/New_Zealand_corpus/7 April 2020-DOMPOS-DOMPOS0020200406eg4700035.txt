@@ -1,0 +1,37 @@
+GOOD SIGNS IN LOCKDOWN DATA
+On paper, the numbers look pretty good. Good enough, at least, for authorities to express cautious optimism about New Zealand's trajectory of confirmed Covid-19 cases, something they have avoided doing.
+"We can see we've had several data points now that are quite comfortably showing it's levelling off, at this point," director-general of health Dr Ashley Bloomfield said yesterday, referring to the daily numbers of confirmed cases.
+"Clearly, the levelling off is a good sign. We've clearly avoided that exponential growth the modelling showed would have happened if we'd done nothing."
+And yet it's far from definitive. With many data points, each telling a different story, it is still not clear what success looks like.
+But there is enough to be heartened by. Here are four numbers that, as of now, show encouraging - but, again, far from categorical - signs that New Zealand is on the right track.
+20
+What makes New Zealand distinct from a lot of other countries is the apparently low rate of community transmission.
+Community transmission - meaning the movement of the virus among otherwise unconnected people - is a key indicator for how severely the virus will spread. It is one of the indicators that underpins the "alert level" system. When the first two cases of community transmission were found, New Zealand moved from alert level two to alert level three. It quickly moved to level four once the risk of wider spread became apparent.
+By staying at home, community transmission becomes harder. As of yesterday, there were about 20 known cases of the virus attributed to community transmission, or 2 per cent of the 1106 confirmed and probable cases. When the lockdown began on March 25, there were four cases.
+There are almost certainly more. The origin of 17 per cent of confirmed cases was still being investigated, some of which will include community transmission, Bloomfield said last week.
+In any case, the total was between 20 and 200, a substantial minority of all cases.
+The virus is dangerous partly because it spreads quickly, and the lack of any major community-level outbreak shows that, so far, it has struggled for fuel.
+0.09
+A major consequence of the lack of community transmission is the low case fatality rate, which, as of yesterday, was 0.09.
+It means that of the confirmed Covid-19 cases, 0.09 per cent have resulted in death - that is, one death among the 1106 confirmed cases thus far. This is among the lowest death rates reported anywhere in the world.
+This is probably driven by one simple data point: age. Because the plurality of confirmed cases were contracted overseas and brought home, they are heavily weighted towards people likely to travel; namely, those between 20 and 40 years old.
+Adjusting the age ranges of those confirmed to have Covid-19 to the overall population shows people aged 20 to 29 are over- represented. They are more than three times as likely to have the virus than those over 70, who are proportionally the least likely age group in New Zealand to have the virus, besides children.
+The fatality rate of Covid-19 rises rapidly with age. The first major study on death rates, based on 70,000 cases in China, showed the fatality rate among those over 80 was 15 per cent, but only 0.2 per cent for people under 40.
+In Italy, the fatality rate among people over 80 was estimated at 20 per cent, and 0.2 per cent among people under 40. Recent New Zealand modelling of what would happen if the virus spread uncontrolled, estimated 87 per cent of deaths would be among those aged over 65.
+These numbers can change drastically depending on other factors, such as the rate of testing and healthcare capacity. It also depends on how far along a country is on its own epidemic curve. But in all cases, the case fatality rate among the elderly is substantially higher than the young.
+New Zealand is still earlier on the curve than most countries, so the low case fatality rate could change. But if community spread can be limited, that rate can remain much lower than it otherwise would be.
+25/03
+While international comparisons are fraught for many reasons, we can look overseas to get a sense of how quickly New Zealand moved to limit community spread.
+Its lockdown, starting gradually in the days leading up to March 25, came early relative to many other countries. In fact, few countries moved earlier.
+New Zealand was lucky to start its Covid-19 response a week or two behind much of the world, a crucial window in which it became clear aggressive physical distancing was an effective way to curb the spread of the virus. Nearly every country is now pursuing this strategy.
+For Italy and Spain, that lesson came too late.
+When we look at the countries most similar to New Zealand in terms of when they imposed lockdowns on their respective epidemic curves, the signs are promising.
+Among them is Norway, which was about a week ahead of New Zealand on its own epidemic curve. Since it put lockdown measures in place, the rate of new confirmed cases has eased and started to drop.
+Others include Iceland, Estonia and Argentina, all of which put lockdowns in place fairly early, in combination with relatively high rates of testing. All three show encouraging results.
+Sweden, which has become a global example of choosing not to take aggressive lockdown measures, continued to struggle.
+1.8
+The early advice from the World Health Organisation was unambiguous: "Test, test, test".
+Prime Minister Jacinda Ardern repeated those words last week. International data shows countries that do widespread, aggressive testing early on have more success in limiting the spread.
+New Zealand's testing capacity has ramped up in the past week, and compares favourably to many other countries. One particularly promising number is the proportion of confirmed cases to the number of tests conducted.
+Yesterday, 1.8 per cent of the 3500 tests were positive, the lowest since the lockdown began, and part of a clear downward trajectory.
+If the lockdown works, you would expect to see this trend continue - more tests finding fewer positive cases of Covid-19.
